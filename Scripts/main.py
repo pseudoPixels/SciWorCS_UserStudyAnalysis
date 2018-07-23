@@ -29,6 +29,16 @@ chatPar = logAnalyser.get_P2P_communication_percentage()
 
 print('Chat Counts -> ' + str(chatPar) + "%")
 
+floorAccessTime = logAnalyser.get_floor_accessed_time()
+
+print(floorAccessTime)
 
 
+totalLogTime = logAnalyser.get_total_log_time()
 
+print(totalLogTime)
+
+
+accessP = logAnalyser.get_floor_access_percentage()
+
+print("Percentage:: " + str(accessP) + "%")
