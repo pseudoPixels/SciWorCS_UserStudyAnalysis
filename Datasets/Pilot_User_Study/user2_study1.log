@@ -1,0 +1,76 @@
+15:19:08.338 telepointerGO.js:3658 john@gmail.com =>CHATBOX_OPENED=>chatWith:darin_gmail_com
+15:19:18.183 telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:Hi.
+15:19:37.070 telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:I am good. How are you?
+15:20:40.422 telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:Alright. How do you think we can implement it?
+15:21:18.365 telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:Alright
+15:21:21.238 telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:Go ahead
+15:21:53.989 telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:let me know if anything confuses you
+15:23:15.731 telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:Now you can implement first five module
+15:23:22.843 telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:I can do the rest
+15:24:09.138 telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:okay
+15:24:15.598 telepointerGO.js:1313 john@gmail.com =>FLOOR_REQUESTED
+15:24:15.939 telepointerGO.js:895 john@gmail.com =>GOT_THE_FLOOR
+15:24:19.595 telepointerGO.js:318 john@gmail.com =>MODULE_CONFIG_CLOSED
+15:24:33.083 telepointerGO.js:3089 john@gmail.com =>MODULE_ADDED=>module_id:6
+15:24:33.305 telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_6
+15:24:33.307 telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_6
+15:24:33.309 telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_6
+15:24:33.311 telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_6
+15:24:39.199 telepointerGO.js:406 john@gmail.com =>MODULE_MOVED=>key:module_id_6*x:-542*y:37
+15:24:42.853 telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_6
+15:24:42.854 telepointerGO.js:383 john@gmail.com =>DATALINK_ADDED=>from:module_id_5*frompid:obtained_user_input.txt*to:module_id_6*topid:first_number.txt
+15:24:51.833 telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_6
+15:24:51.834 telepointerGO.js:383 john@gmail.com =>DATALINK_ADDED=>from:module_id_4*frompid:obtained_user_input.txt*to:module_id_6*topid:second_number.txt
+15:25:03.274 telepointerGO.js:406 john@gmail.com =>MODULE_MOVED=>key:module_id_6*x:-554*y:78
+15:25:16.028 telepointerGO.js:3089 john@gmail.com =>MODULE_ADDED=>module_id:7
+15:25:16.246 telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_7
+15:25:16.249 telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_7
+15:25:16.251 telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_7
+15:25:16.253 telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_7
+15:25:20.790 telepointerGO.js:406 john@gmail.com =>MODULE_MOVED=>key:module_id_7*x:-55*y:85
+15:25:23.543 telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_7
+15:25:23.544 telepointerGO.js:383 john@gmail.com =>DATALINK_ADDED=>from:module_id_6*frompid:summation_result.txt*to:module_id_7*topid:first_number.txt
+15:25:30.088 telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_7
+15:25:30.088 telepointerGO.js:383 john@gmail.com =>DATALINK_ADDED=>from:module_id_1*frompid:obtained_user_input.txt*to:module_id_7*topid:second_number.txt
+15:25:41.530 telepointerGO.js:3089 john@gmail.com =>MODULE_ADDED=>module_id:8
+15:25:41.752 telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_8
+15:25:41.754 telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_8
+15:25:41.756 telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_8
+15:25:41.758 telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_8
+15:25:44.925 telepointerGO.js:406 john@gmail.com =>MODULE_MOVED=>key:module_id_8*x:424*y:61
+15:25:50.415 telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_8
+15:25:50.415 telepointerGO.js:383 john@gmail.com =>DATALINK_ADDED=>from:module_id_3*frompid:obtained_user_input.txt*to:module_id_8*topid:first_number.txt
+15:25:57.607 telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_8
+15:25:57.607 telepointerGO.js:383 john@gmail.com =>DATALINK_ADDED=>from:module_id_7*frompid:multiplication_result.txt*to:module_id_8*topid:second_number.txt
+15:26:28.179 telepointerGO.js:1324 john@gmail.com =>FLOOR_RELEASED
+15:26:32.743 telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:done
+15:26:47.656 telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:please double check if its okay
+15:26:56.356 telepointerGO.js:1313 john@gmail.com =>FLOOR_REQUESTED
+15:27:21.711 telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:keep going
+15:27:54.415 telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:I just made a mistake asking for floor
+15:28:24.604 telepointerGO.js:318 john@gmail.com =>MODULE_CONFIG_CLOSED
+15:29:11.590 telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:I can finish it
+15:29:36.589 telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:what are the module that needs to be done?
+15:29:49.563 telepointerGO.js:406 john@gmail.com =>MODULE_MOVED=>key:module_id_7*x:-53*y:152
+15:30:30.521 telepointerGO.js:406 john@gmail.com =>MODULE_MOVED=>key:module_id_13*x:-536*y:472
+15:30:31.456 telepointerGO.js:406 john@gmail.com =>MODULE_MOVED=>key:module_id_14*x:-114*y:398
+15:30:32.545 telepointerGO.js:406 john@gmail.com =>MODULE_MOVED=>key:module_id_15*x:270*y:470
+15:30:40.761 telepointerGO.js:318 john@gmail.com =>MODULE_CONFIG_CLOSED
+15:30:46.681 telepointerGO.js:406 john@gmail.com =>MODULE_MOVED=>key:module_id_8*x:446*y:157
+15:30:50.784 telepointerGO.js:406 john@gmail.com =>MODULE_MOVED=>key:module_id_15*x:221*y:465
+15:30:52.596 telepointerGO.js:3089 john@gmail.com =>MODULE_ADDED=>module_id:16
+15:30:52.815 telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_16
+15:30:52.817 telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_16
+15:30:52.818 telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_16
+15:30:52.820 telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_16
+15:31:01.761 telepointerGO.js:406 john@gmail.com =>MODULE_MOVED=>key:module_id_16*x:583*y:361
+15:31:06.888 telepointerGO.js:406 john@gmail.com =>MODULE_MOVED=>key:module_id_16*x:572*y:427
+15:31:14.626 telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_16
+15:31:14.626 telepointerGO.js:383 john@gmail.com =>DATALINK_ADDED=>from:module_id_12*frompid:subtraction_result.txt*to:module_id_16*topid:first_number.txt
+15:31:21.594 telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_16
+15:31:21.594 telepointerGO.js:383 john@gmail.com =>DATALINK_ADDED=>from:module_id_15*frompid:result.txt*to:module_id_16*topid:second_number.txt
+15:31:34.900 telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:I think we are donw
+15:31:37.659 telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:done
+15:31:51.539 telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:Do you want to run it?
+15:32:00.958 telepointerGO.js:1324 john@gmail.com =>FLOOR_RELEASED
+15:32:03.536 telepointerGO.js:318 john@gmail.com =>MODULE_CONFIG_CLOSED

@@ -1,0 +1,102 @@
+telepointer_module_lockingGO.js:1007 darin@gmail.com =>MODULE_CONFIG_CLOSED
+telepointer_module_lockingGO.js:1007 darin@gmail.com =>MODULE_CONFIG_CLOSED
+telepointer_module_lockingGO.js:3214 darin@gmail.com =>CHATBOX_OPENED=>chatWith:john_gmail_com
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:Hi.
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:How do you want to proceed with this module ?
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:I was thinking we take turns ? this way we can double check each others work to make sure that we are on the same page ?
+telepointer_module_lockingGO.js:2801 darin@gmail.com =>MODULE_ADDED=>module_id:1
+telepointer_module_lockingGO.js:1108 darin@gmail.com =>MODULE_MOVED=>key:module_id_1*x:-529*y:-188
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:are you ok doing that way ?
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:it is your turn
+telepointer_module_lockingGO.js:2801 darin@gmail.com =>MODULE_ADDED=>module_id:3
+telepointer_module_lockingGO.js:1108 darin@gmail.com =>MODULE_MOVED=>key:module_id_3*x:228*y:-174
+telepointer_module_lockingGO.js:2801 darin@gmail.com =>MODULE_ADDED=>module_id:5
+telepointer_module_lockingGO.js:1108 darin@gmail.com =>MODULE_MOVED=>key:module_id_5*x:-520*y:37
+telepointer_module_lockingGO.js:1767 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_5
+telepointer_module_lockingGO.js:1089 darin@gmail.com =>DATALINK_ADDED=>from:module_id_3*frompid:obtained_user_input.txt*to:module_id_5*topid:first_number.txt
+telepointer_module_lockingGO.js:2801 darin@gmail.com =>MODULE_ADDED=>module_id:7
+telepointer_module_lockingGO.js:1108 darin@gmail.com =>MODULE_MOVED=>key:module_id_7*x:487.4180062500002*y:57.12879375
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:So lets start over
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:because if we cannot connect it, then its a problem
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:What do you suggest ?
+telepointer_module_lockingGO.js:2801 darin@gmail.com =>MODULE_ADDED=>module_id:9
+telepointer_module_lockingGO.js:1108 darin@gmail.com =>MODULE_MOVED=>key:module_id_9*x:-502.00408125000007*y:396.25503750000007
+telepointer_module_lockingGO.js:2801 darin@gmail.com =>MODULE_ADDED=>module_id:10
+telepointer_module_lockingGO.js:1108 darin@gmail.com =>MODULE_MOVED=>key:module_id_10*x:-498.3575625000001*y:536.0382562500001
+telepointer_module_lockingGO.js:1108 darin@gmail.com =>MODULE_MOVED=>key:module_id_10*x:-500.78857500000004*y:566.4259125000001
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:ok
+telepointer_module_lockingGO.js:1028 darin@gmail.com =>MODULE_DELETED=>module_id:module_id_9
+telepointer_module_lockingGO.js:1028 darin@gmail.com =>MODULE_DELETED=>module_id:module_id_10
+telepointer_module_lockingGO.js:1028 darin@gmail.com =>MODULE_DELETED=>module_id:module_id_5
+telepointer_module_lockingGO.js:1028 darin@gmail.com =>MODULE_DELETED=>module_id:module_id_1
+telepointer_module_lockingGO.js:1028 darin@gmail.com =>MODULE_DELETED=>module_id:module_id_7
+telepointer_module_lockingGO.js:1028 darin@gmail.com =>MODULE_DELETED=>module_id:module_id_3
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:Ill do the user input part.
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:first
+telepointer_module_lockingGO.js:2801 darin@gmail.com =>MODULE_ADDED=>module_id:11
+telepointer_module_lockingGO.js:1108 darin@gmail.com =>MODULE_MOVED=>key:module_id_11*x:-544.5468000000001*y:-142.21423125
+telepointer_module_lockingGO.js:2801 darin@gmail.com =>MODULE_ADDED=>module_id:12
+telepointer_module_lockingGO.js:1108 darin@gmail.com =>MODULE_MOVED=>key:module_id_12*x:-144.64524374999996*y:-136.13670000000002
+telepointer_module_lockingGO.js:2801 darin@gmail.com =>MODULE_ADDED=>module_id:13
+telepointer_module_lockingGO.js:1108 darin@gmail.com =>MODULE_MOVED=>key:module_id_13*x:264.98036249999996*y:-131.274675
+telepointer_module_lockingGO.js:2801 darin@gmail.com =>MODULE_ADDED=>module_id:14
+telepointer_module_lockingGO.js:1108 darin@gmail.com =>MODULE_MOVED=>key:module_id_14*x:656.3733750000001*y:-128.84366250000005
+telepointer_module_lockingGO.js:2801 darin@gmail.com =>MODULE_ADDED=>module_id:15
+telepointer_module_lockingGO.js:1108 darin@gmail.com =>MODULE_MOVED=>key:module_id_15*x:-549.4088250000001*y:116.68859999999995
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:I think it makes sense for one person to do all ?
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:that way the other person can check
+telepointer_module_lockingGO.js:2801 darin@gmail.com =>MODULE_ADDED=>module_id:16
+telepointer_module_lockingGO.js:1108 darin@gmail.com =>MODULE_MOVED=>key:module_id_16*x:-99.67151249999995*y:123.98163750000003
+telepointer_module_lockingGO.js:2801 darin@gmail.com =>MODULE_ADDED=>module_id:17
+telepointer_module_lockingGO.js:1108 darin@gmail.com =>MODULE_MOVED=>key:module_id_17*x:414.48763125000005*y:126.41264999999999
+telepointer_module_lockingGO.js:2801 darin@gmail.com =>MODULE_ADDED=>module_id:18
+telepointer_module_lockingGO.js:1108 darin@gmail.com =>MODULE_MOVED=>key:module_id_18*x:-545.76230625*y:405.9790875000001
+telepointer_module_lockingGO.js:2801 darin@gmail.com =>MODULE_ADDED=>module_id:19
+telepointer_module_lockingGO.js:1108 darin@gmail.com =>MODULE_MOVED=>key:module_id_19*x:-532.3917375000001*y:560.3483812500001
+telepointer_module_lockingGO.js:1108 darin@gmail.com =>MODULE_MOVED=>key:module_id_18*x:-539.6847750000001*y:370.72940625
+telepointer_module_lockingGO.js:1108 darin@gmail.com =>MODULE_MOVED=>key:module_id_19*x:-539.6847750000002*y:556.7018625000001
+telepointer_module_lockingGO.js:2801 darin@gmail.com =>MODULE_ADDED=>module_id:20
+telepointer_module_lockingGO.js:1108 darin@gmail.com =>MODULE_MOVED=>key:module_id_20*x:-528.7452187500002*y:692.8385625000002
+telepointer_module_lockingGO.js:1108 darin@gmail.com =>MODULE_MOVED=>key:module_id_20*x:-540.9002812500001*y:725.6572312500002
+telepointer_module_lockingGO.js:2801 darin@gmail.com =>MODULE_ADDED=>module_id:21
+telepointer_module_lockingGO.js:1108 darin@gmail.com =>MODULE_MOVED=>key:module_id_21*x:-36.46518749999984*y:559.132875
+telepointer_module_lockingGO.js:2801 darin@gmail.com =>MODULE_ADDED=>module_id:22
+telepointer_module_lockingGO.js:1108 darin@gmail.com =>MODULE_MOVED=>key:module_id_22*x:407.1945937500001*y:503.2195875000001
+telepointer_module_lockingGO.js:1108 darin@gmail.com =>MODULE_MOVED=>key:module_id_22*x:435.1512375000001*y:562.7793937500002
+telepointer_module_lockingGO.js:2801 darin@gmail.com =>MODULE_ADDED=>module_id:23
+telepointer_module_lockingGO.js:1108 darin@gmail.com =>MODULE_MOVED=>key:module_id_23*x:-57.12879375*y:691.6230562500002
+telepointer_module_lockingGO.js:1108 darin@gmail.com =>MODULE_MOVED=>key:module_id_23*x:-41.32721250000009*y:737.8122937500002
+telepointer_module_lockingGO.js:1767 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_16
+telepointer_module_lockingGO.js:1089 darin@gmail.com =>DATALINK_ADDED=>from:module_id_11*frompid:obtained_user_input.txt*to:module_id_16*topid:first_number.txt
+telepointer_module_lockingGO.js:1767 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_17
+telepointer_module_lockingGO.js:1089 darin@gmail.com =>DATALINK_ADDED=>from:module_id_12*frompid:obtained_user_input.txt*to:module_id_17*topid:first_number.txt
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:yes
+telepointer_module_lockingGO.js:2801 darin@gmail.com =>MODULE_ADDED=>module_id:24
+telepointer_module_lockingGO.js:1108 darin@gmail.com =>MODULE_MOVED=>key:module_id_24*x:429.9395341426174*y:369.36386094726583
+telepointer_module_lockingGO.js:1767 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_24
+telepointer_module_lockingGO.js:1089 darin@gmail.com =>DATALINK_ADDED=>from:module_id_12*frompid:obtained_user_input.txt*to:module_id_24*topid:first_number.txt
+telepointer_module_lockingGO.js:1108 darin@gmail.com =>MODULE_MOVED=>key:module_id_18*x:-539.6847750000001*y:364.81958447484385
+telepointer_module_lockingGO.js:1767 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_24
+telepointer_module_lockingGO.js:1089 darin@gmail.com =>DATALINK_ADDED=>from:module_id_18*frompid:result.txt*to:module_id_24*topid:second_number.txt
+telepointer_module_lockingGO.js:1767 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_17
+telepointer_module_lockingGO.js:1089 darin@gmail.com =>DATALINK_ADDED=>from:module_id_16*frompid:multiplication_result.txt*to:module_id_17*topid:second_number.txt
+telepointer_module_lockingGO.js:1767 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_16
+telepointer_module_lockingGO.js:1089 darin@gmail.com =>DATALINK_ADDED=>from:module_id_15*frompid:summation_result.txt*to:module_id_16*topid:second_number.txt
+telepointer_module_lockingGO.js:1767 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_15
+telepointer_module_lockingGO.js:1089 darin@gmail.com =>DATALINK_ADDED=>from:module_id_13*frompid:obtained_user_input.txt*to:module_id_15*topid:first_number.txt
+telepointer_module_lockingGO.js:1767 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_15
+telepointer_module_lockingGO.js:1089 darin@gmail.com =>DATALINK_ADDED=>from:module_id_14*frompid:obtained_user_input.txt*to:module_id_15*topid:second_number.txt
+telepointer_module_lockingGO.js:1028 darin@gmail.com =>MODULE_DELETED=>module_id:module_id_23
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:Ok.
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:can you finist the rest ?
+telepointer_module_lockingGO.js:1169 darin@gmail.com =>SUB_WORKFLOW_LOCK_RELEASED=>rootNode:module_id_18
+telepointer_module_lockingGO.js:1169 darin@gmail.com =>SUB_WORKFLOW_LOCK_RELEASED=>rootNode:module_id_19
+telepointer_module_lockingGO.js:1169 darin@gmail.com =>SUB_WORKFLOW_LOCK_RELEASED=>rootNode:module_id_21
+telepointer_module_lockingGO.js:1169 darin@gmail.com =>SUB_WORKFLOW_LOCK_RELEASED=>rootNode:module_id_21
+telepointer_module_lockingGO.js:1169 darin@gmail.com =>SUB_WORKFLOW_LOCK_RELEASED=>rootNode:module_id_22
+telepointer_module_lockingGO.js:1169 darin@gmail.com =>SUB_WORKFLOW_LOCK_RELEASED=>rootNode:module_id_20
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:I have unlocked them
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:go ahead. Be mu guest
+telepointer_module_lockingGO.js:1169 darin@gmail.com =>SUB_WORKFLOW_LOCK_RELEASED=>rootNode:module_id_15
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:Can you unlock module 25 ?
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:because the conections are wrong.

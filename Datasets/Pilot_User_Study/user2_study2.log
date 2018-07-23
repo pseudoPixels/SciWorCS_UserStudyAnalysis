@@ -1,0 +1,52 @@
+15:35:33.994 telepointer_module_lockingGO.js:3126 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:Hi this time you can do the first seven module
+15:35:43.120 telepointer_module_lockingGO.js:3126 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:I can do the rest
+15:37:23.158 telepointer_module_lockingGO.js:3126 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:Yeah sure
+15:37:54.191 telepointer_module_lockingGO.js:2801 john@gmail.com =>MODULE_ADDED=>module_id:2
+15:37:56.588 telepointer_module_lockingGO.js:1108 john@gmail.com =>MODULE_MOVED=>key:module_id_2*x:-116*y:-172
+15:38:04.216 telepointer_module_lockingGO.js:2801 john@gmail.com =>MODULE_ADDED=>module_id:4
+15:38:06.898 telepointer_module_lockingGO.js:1108 john@gmail.com =>MODULE_MOVED=>key:module_id_4*x:588*y:-171
+15:38:28.663 telepointer_module_lockingGO.js:2801 john@gmail.com =>MODULE_ADDED=>module_id:6
+15:38:30.831 telepointer_module_lockingGO.js:1108 john@gmail.com =>MODULE_MOVED=>key:module_id_6*x:-95*y:45
+15:39:45.478 telepointer_module_lockingGO.js:2801 john@gmail.com =>MODULE_ADDED=>module_id:8
+15:39:47.968 telepointer_module_lockingGO.js:1108 john@gmail.com =>MODULE_MOVED=>key:module_id_8*x:-492*y:202
+15:40:09.228 telepointer_module_lockingGO.js:3126 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:from scratch?
+15:40:37.564 telepointer_module_lockingGO.js:3126 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:yeah makes sense
+15:40:43.619 telepointer_module_lockingGO.js:3126 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:lets start over
+15:41:39.655 telepointer_module_lockingGO.js:1028 john@gmail.com =>MODULE_DELETED=>module_id:module_id_8
+15:41:40.469 telepointer_module_lockingGO.js:1028 john@gmail.com =>MODULE_DELETED=>module_id:module_id_6
+15:41:41.349 telepointer_module_lockingGO.js:1028 john@gmail.com =>MODULE_DELETED=>module_id:module_id_2
+15:41:43.093 telepointer_module_lockingGO.js:1028 john@gmail.com =>MODULE_DELETED=>module_id:module_id_4
+15:43:46.225 telepointer_module_lockingGO.js:3126 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:are you going the whole thing?
+15:44:18.681 telepointer_module_lockingGO.js:3126 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:dont do the last one
+15:44:33.104 telepointer_module_lockingGO.js:3126 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:I know how to use your module
+15:45:28.720 telepointer_module_lockingGO.js:3126 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:okay
+15:45:55.435 telepointer_module_lockingGO.js:1131 john@gmail.com =>SUB_WORKFLOW_LOCK_REQUESTED=>rootNode:module_id_15
+15:46:12.826 telepointer_module_lockingGO.js:1131 john@gmail.com =>SUB_WORKFLOW_LOCK_REQUESTED=>rootNode:module_id_18
+15:46:24.682 telepointer_module_lockingGO.js:1131 john@gmail.com =>SUB_WORKFLOW_LOCK_REQUESTED=>rootNode:module_id_19
+15:46:28.130 telepointer_module_lockingGO.js:1131 john@gmail.com =>SUB_WORKFLOW_LOCK_REQUESTED=>rootNode:module_id_20
+15:46:36.889 telepointer_module_lockingGO.js:2688 john@gmail.com =>SUB_WORKFLOW_LOG_GRANTED=>rootNode:module_id_18
+15:46:38.526 telepointer_module_lockingGO.js:2688 john@gmail.com =>SUB_WORKFLOW_LOG_GRANTED=>rootNode:module_id_19
+15:46:45.872 telepointer_module_lockingGO.js:2688 john@gmail.com =>SUB_WORKFLOW_LOG_GRANTED=>rootNode:module_id_20
+15:47:20.661 telepointer_module_lockingGO.js:2688 john@gmail.com =>SUB_WORKFLOW_LOG_GRANTED=>rootNode:module_id_15
+15:47:31.030 telepointer_module_lockingGO.js:1767 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_18
+15:47:31.030 telepointer_module_lockingGO.js:1089 john@gmail.com =>DATALINK_ADDED=>from:module_id_15*frompid:summation_result.txt*to:module_id_18*topid:base_number.txt
+15:47:54.459 telepointer_module_lockingGO.js:1767 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_19
+15:47:54.460 telepointer_module_lockingGO.js:1089 john@gmail.com =>DATALINK_ADDED=>from:module_id_18*frompid:result.txt*to:module_id_19*topid:first_number.txt
+15:48:46.282 telepointer_module_lockingGO.js:1767 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_19
+15:48:46.283 telepointer_module_lockingGO.js:1089 john@gmail.com =>DATALINK_ADDED=>from:module_id_16*frompid:multiplication_result.txt*to:module_id_19*topid:second_number.txt
+15:49:06.816 telepointer_module_lockingGO.js:2688 john@gmail.com =>SUB_WORKFLOW_LOG_GRANTED=>rootNode:module_id_21
+15:49:06.816 telepointer_module_lockingGO.js:1131 john@gmail.com =>SUB_WORKFLOW_LOCK_REQUESTED=>rootNode:module_id_21
+15:49:18.330 telepointer_module_lockingGO.js:1767 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_21
+15:49:18.330 telepointer_module_lockingGO.js:1089 john@gmail.com =>DATALINK_ADDED=>from:module_id_19*frompid:summation_result.txt*to:module_id_21*topid:first_number.txt
+15:49:23.538 telepointer_module_lockingGO.js:1767 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_21
+15:49:23.538 telepointer_module_lockingGO.js:1089 john@gmail.com =>DATALINK_ADDED=>from:module_id_20*frompid:summation_result.txt*to:module_id_21*topid:second_number.txt
+15:49:28.639 telepointer_module_lockingGO.js:2688 john@gmail.com =>SUB_WORKFLOW_LOG_GRANTED=>rootNode:module_id_22
+15:49:28.640 telepointer_module_lockingGO.js:1131 john@gmail.com =>SUB_WORKFLOW_LOCK_REQUESTED=>rootNode:module_id_22
+15:49:31.331 telepointer_module_lockingGO.js:1767 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_22
+15:49:31.332 telepointer_module_lockingGO.js:1089 john@gmail.com =>DATALINK_ADDED=>from:module_id_21*frompid:subtraction_result.txt*to:module_id_22*topid:base_number.txt
+15:49:40.564 telepointer_module_lockingGO.js:2801 john@gmail.com =>MODULE_ADDED=>module_id:25
+15:49:45.695 telepointer_module_lockingGO.js:1108 john@gmail.com =>MODULE_MOVED=>key:module_id_25*x:867.8714625000002*y:587.0895187500003
+15:50:00.073 telepointer_module_lockingGO.js:1767 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_25
+15:50:00.074 telepointer_module_lockingGO.js:1089 john@gmail.com =>DATALINK_ADDED=>from:module_id_24*frompid:subtraction_result.txt*to:module_id_25*topid:second_number.txt
+15:50:04.401 telepointer_module_lockingGO.js:1767 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_25
+15:50:04.401 telepointer_module_lockingGO.js:1089 john@gmail.com =>DATALINK_ADDED=>from:module_id_22*frompid:result.txt*to:module_id_25*topid:first_number.txt
