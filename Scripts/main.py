@@ -1,5 +1,6 @@
 from Scripts.LogParser import *
 from Scripts.UserLogIO import *
+from Scripts.LogAnalyser import *
 
 
 
@@ -9,10 +10,25 @@ logParser = LogParser()
 
 
 #load log file
-aLog = logIO.loadLog('../Datasets/Pilot_User_Study/user2_study1.log')
+rawLog = logIO.loadLog('../Datasets/Pilot_User_Study/user2_study1.log')
 
 
-formattedLogEntry = logParser.transformRawToRequiredFormat(aLog[1])
+#log analyser class object
+logAnalyser = LogAnalyser(rawLog)
 
-print(logParser.getTime(formattedLogEntry))
+
+
+
+
+chatCount = logAnalyser.get_P2P_communication_count()
+
+print('Chat Counts -> ' + str(chatCount))
+
+chatPar = logAnalyser.get_P2P_communication_percentage()
+
+
+print('Chat Counts -> ' + str(chatPar) + "%")
+
+
+
 
