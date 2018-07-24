@@ -393,7 +393,7 @@ class LogAnalyser:
     def get_a_subworkflow_grant_access_waiting_time(self, rootNode, event_index):
 
         accessGrantIndex = self._totalEventCount - 1 #by default the last index
-        waitingTime = 0
+
         for i in range(event_index+1, self._totalEventCount):
             formattedLogEntry = logParser.transformRawToRequiredFormat(self._rawLog[i])
 
@@ -403,18 +403,18 @@ class LogAnalyser:
                 rNode = logParser.get_sub_workflow_lock_grant_root(formattedLogEntry)
                 if rNode == rootNode:
                     accessGrantIndex = i
-                    requestTimeLog = logParser.transformRawToRequiredFormat(self._rawLog[event_index])
-                    requestTime = logParser.getTime(requestTimeLog)
-
-                    accessGrantLog = logParser.transformRawToRequiredFormat(self._rawLog[accessGrantIndex])
-                    accessGrantTime = logParser.getTime(accessGrantLog)
-
-                    waitingTime = TimeUtility().getTimeDifference(requestTime, accessGrantTime)
+                    #print('here => ', i)
                     break
 
 
 
+        requestTimeLog = logParser.transformRawToRequiredFormat(self._rawLog[event_index])
+        requestTime = logParser.getTime(requestTimeLog)
 
+        accessGrantLog = logParser.transformRawToRequiredFormat(self._rawLog[accessGrantIndex])
+        accessGrantTime = logParser.getTime(accessGrantLog)
+
+        waitingTime = TimeUtility().getTimeDifference(requestTime, accessGrantTime)
 
         return waitingTime
 
