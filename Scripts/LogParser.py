@@ -96,6 +96,13 @@ class LogParser:
         return {"moduleId": moduleId, "x":newX, 'y':newY}
 
 
+    def get_sub_workflow_lock_request_root(self, formattedLog):
+        sub_workflow_root = formattedLog.split('=>')[3] # rootNode:module_id_15
+        sub_workflow_root = sub_workflow_root.split(':')[1]
+        sub_workflow_root = sub_workflow_root.split('_')[2]
+
+        return sub_workflow_root
+
 
 
 

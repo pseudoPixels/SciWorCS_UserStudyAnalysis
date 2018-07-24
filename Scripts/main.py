@@ -10,7 +10,7 @@ logParser = LogParser()
 
 
 #load log file
-rawLog = logIO.loadLog('../Datasets/Pilot_User_Study/user2_study1.log')
+rawLog = logIO.loadLog('../Datasets/Pilot_User_Study/user2_study2.log')
 
 
 #log analyser class object
@@ -47,4 +47,4 @@ logAnalyser = LogAnalyser(rawLog)
 
 
 
-print(logAnalyser.get_module_move_stats())
+print(logAnalyser.get_subworkflow_lock_request_roots_with_time())

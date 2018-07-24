@@ -337,6 +337,55 @@ class LogAnalyser:
 
         return moved_modules
 
+
+
+
+    ########################################
+    # for sub workflow based locks
+    #######################################
+    def get_subworkflow_lock_request_counts(self):
+        count = 0
+
+        for i in range(self._totalEventCount):
+            formattedLogEntry = logParser.transformRawToRequiredFormat(self._rawLog[i])
+
+            eventType = logParser.getEventType(formattedLogEntry)
+
+            if eventType == 'SUB_WORKFLOW_LOCK_REQUESTED':
+                count += 1
+
+        return count
+
+    def get_subworkflow_lock_request_roots(self):
+        roots = []
+
+        for i in range(self._totalEventCount):
+            formattedLogEntry = logParser.transformRawToRequiredFormat(self._rawLog[i])
+
+            eventType = logParser.getEventType(formattedLogEntry)
+
+            if eventType == 'SUB_WORKFLOW_LOCK_REQUESTED':
+                roots.append(logParser.get_sub_workflow_lock_request_root(formattedLogEntry))
+
+        return roots
+
+
+
+    def get_subworkflow_lock_request_roots_with_time(self):
+        roots_with_time = []
+
+        for i in range(self._totalEventCount):
+            formattedLogEntry = logParser.transformRawToRequiredFormat(self._rawLog[i])
+
+            eventType = logParser.getEventType(formattedLogEntry)
+
+            if eventType == 'SUB_WORKFLOW_LOCK_REQUESTED':
+                tmp_lock_req_with_time = {'rootNode': logParser.get_sub_workflow_lock_request_root(formattedLogEntry), 'when': logParser.getTime(formattedLogEntry)}
+
+                roots_with_time.append(tmp_lock_req_with_time)
+
+        return roots_with_time
+
 ########################ENDS#####################################
 ############  Module Related Analysis ###########################
 #################################################################
