@@ -47,4 +47,4 @@ logAnalyser = LogAnalyser(rawLog)
 
 
 
-print(logAnalyser.get_subworkflow_lock_request_roots_with_time())
+print(logAnalyser.get_total_subworkflow_req_access_waiting_time())

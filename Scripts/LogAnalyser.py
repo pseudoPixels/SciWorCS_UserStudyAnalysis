@@ -386,6 +386,55 @@ class LogAnalyser:
 
         return roots_with_time
 
+
+
+
+    #time between a subworkflow lock request and its corresponding access
+    def get_a_subworkflow_grant_access_waiting_time(self, rootNode, event_index):
+
+        accessGrantIndex = self._totalEventCount - 1 #by default the last index
+        waitingTime = 0
+        for i in range(event_index+1, self._totalEventCount):
+            formattedLogEntry = logParser.transformRawToRequiredFormat(self._rawLog[i])
+
+            eventType = logParser.getEventType(formattedLogEntry)
+
+            if eventType == 'SUB_WORKFLOW_LOG_GRANTED':
+                rNode = logParser.get_sub_workflow_lock_grant_root(formattedLogEntry)
+                if rNode == rootNode:
+                    accessGrantIndex = i
+                    requestTimeLog = logParser.transformRawToRequiredFormat(self._rawLog[event_index])
+                    requestTime = logParser.getTime(requestTimeLog)
+
+                    accessGrantLog = logParser.transformRawToRequiredFormat(self._rawLog[accessGrantIndex])
+                    accessGrantTime = logParser.getTime(accessGrantLog)
+
+                    waitingTime = TimeUtility().getTimeDifference(requestTime, accessGrantTime)
+                    break
+
+
+
+
+
+        return waitingTime
+
+
+
+
+    def get_total_subworkflow_req_access_waiting_time(self):
+        total_waiting_time = 0
+        for i in range(self._totalEventCount):
+            formattedLogEntry = logParser.transformRawToRequiredFormat(self._rawLog[i])
+
+            eventType = logParser.getEventType(formattedLogEntry)
+
+            if eventType == 'SUB_WORKFLOW_LOCK_REQUESTED':
+                anWaitingTime = self.get_a_subworkflow_grant_access_waiting_time(logParser.get_sub_workflow_lock_request_root(formattedLogEntry), i)
+                #print(anWaitingTime)
+                total_waiting_time += anWaitingTime
+
+        return total_waiting_time
+
 ########################ENDS#####################################
 ############  Module Related Analysis ###########################
 #################################################################

@@ -104,6 +104,9 @@ class LogParser:
         return sub_workflow_root
 
 
+    def get_sub_workflow_lock_grant_root(self, formattedLog):
+        #reuse, as both of them have the same format in log
+        return self.get_sub_workflow_lock_request_root(formattedLog)
 
 
 
