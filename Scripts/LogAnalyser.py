@@ -175,9 +175,30 @@ class LogAnalyser:
         return TimeUtility().getTimeDifference(start_time, end_time)
 
 
+
     #the time ratio of this user's floor access time
     def get_floor_access_percentage(self):
         return self.get_floor_accessed_time() * 100 / self.get_total_log_time()
+
+
+
+    #the time between the floor request and its granted access
+    def get_total_waiting_time(self):
+        floor_request_time_stamp = ''
+        total_waiting_time = 0
+
+        for i in range(self._totalEventCount):
+            formattedLogEntry = logParser.transformRawToRequiredFormat(self._rawLog[i])
+
+            eventType = logParser.getEventType(formattedLogEntry)
+
+            if eventType == 'FLOOR_REQUESTED':
+                floor_request_time_stamp = logParser.getTime(formattedLogEntry)
+            elif eventType == 'GOT_THE_FLOOR':
+                got_floor_time_stamp = logParser.getTime(formattedLogEntry)
+                t_diff = TimeUtility().getTimeDifference(floor_request_time_stamp, got_floor_time_stamp)
+                total_waiting_time += t_diff
+        return total_waiting_time
 
 ########################ENDS#####################################
 ############  Floor Access Related Analysis #####################
@@ -224,6 +245,37 @@ class LogAnalyser:
 
         return module_add_count
 
+    def get_added_module_indices(self):
+        indices = []
+
+        for i in range(self._totalEventCount):
+            formattedLogEntry = logParser.transformRawToRequiredFormat(self._rawLog[i])
+
+            eventType = logParser.getEventType(formattedLogEntry)
+
+            if eventType == 'MODULE_ADDED':
+                #print(str(i) + "->")
+                indices.append(logParser.get_added_module_id(formattedLogEntry))
+
+        return indices
+
+
+
+
+
+
+    def get_module_config_update_count(self):
+        module_config_update_count = 0
+
+        for i in range(self._totalEventCount):
+            formattedLogEntry = logParser.transformRawToRequiredFormat(self._rawLog[i])
+
+            eventType = logParser.getEventType(formattedLogEntry)
+
+            if eventType == 'MODULE_CONFIG_CHANGE':
+                module_config_update_count += 1
+
+        return module_config_update_count
 
 
     def get_module_deletion_count(self):

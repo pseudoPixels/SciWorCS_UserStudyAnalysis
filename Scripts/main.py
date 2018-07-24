@@ -47,4 +47,4 @@ logAnalyser = LogAnalyser(rawLog)
 
 
 
-print(logAnalyser.get_floor_access_release_time_series())
+print(logAnalyser.get_added_module_indices())

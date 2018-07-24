@@ -43,6 +43,9 @@ class LogParser:
         return formattedLog.split('=>')[3]
 
 
+
+
+
     def get_P2P_sent_user(self, formattedLog):
         P2P_event_details = formattedLog.split('=>')[3]
         sent_to_info = P2P_event_details.split('*')[0]#to:darin_gmail_com
@@ -55,3 +58,7 @@ class LogParser:
         return P2P_event_details[pre_text_len-1:]
 
 
+    def get_added_module_id(self, formattedLog):
+        moduleAddedDetails = formattedLog.split('=>')[3] #module_id:7
+
+        return moduleAddedDetails.split(":")[1]
