@@ -262,6 +262,20 @@ class LogAnalyser:
 
 
 
+    def get_module_config_change_stats(self):
+        stats={}
+
+        for i in range(self._totalEventCount):
+            formattedLogEntry = logParser.transformRawToRequiredFormat(self._rawLog[i])
+
+            eventType = logParser.getEventType(formattedLogEntry)
+
+            if eventType == 'MODULE_CONFIG_CHANGE':
+                moduleID = logParser.get_config_change_module_id(formattedLogEntry)
+                stats[moduleID] = stats.get(moduleID, 0) + 1
+
+        return stats
+
 
 
     def get_module_config_update_count(self):

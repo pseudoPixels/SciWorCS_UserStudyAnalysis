@@ -62,3 +62,8 @@ class LogParser:
         moduleAddedDetails = formattedLog.split('=>')[3] #module_id:7
 
         return moduleAddedDetails.split(":")[1]
+
+    def get_config_change_module_id(self, formattedLog):
+        moduleAddedDetails = formattedLog.split('=>')[3]  # moduleID:module_id_8
+        tmp = moduleAddedDetails.split(":")[1]  # module_id_8
+        return tmp.split("_")[2] # 8

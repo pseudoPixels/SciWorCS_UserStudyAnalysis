@@ -47,4 +47,4 @@ logAnalyser = LogAnalyser(rawLog)
 
 
 
-print(logAnalyser.get_added_module_indices())
+print(logAnalyser.get_module_config_change_stats())
