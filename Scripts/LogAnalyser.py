@@ -304,6 +304,39 @@ class LogAnalyser:
                 module_del_count += 1
 
         return module_del_count
+
+
+
+    def get_datalink_add_stats(self):
+        added_datalinks = []
+
+        for i in range(self._totalEventCount):
+            formattedLogEntry = logParser.transformRawToRequiredFormat(self._rawLog[i])
+
+            eventType = logParser.getEventType(formattedLogEntry)
+
+            if eventType == 'DATALINK_ADDED':
+                newLink = logParser.get_datalink_add_details(formattedLogEntry)
+                added_datalinks.append(newLink)
+
+        return added_datalinks
+
+
+
+    def get_module_move_stats(self):
+        moved_modules = []
+
+        for i in range(self._totalEventCount):
+            formattedLogEntry = logParser.transformRawToRequiredFormat(self._rawLog[i])
+
+            eventType = logParser.getEventType(formattedLogEntry)
+
+            if eventType == 'MODULE_MOVED':
+                moduleNewPos = logParser.get_module_move_details(formattedLogEntry)
+                moved_modules.append(moduleNewPos)
+
+        return moved_modules
+
 ########################ENDS#####################################
 ############  Module Related Analysis ###########################
 #################################################################

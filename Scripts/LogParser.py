@@ -67,3 +67,42 @@ class LogParser:
         moduleAddedDetails = formattedLog.split('=>')[3]  # moduleID:module_id_8
         tmp = moduleAddedDetails.split(":")[1]  # module_id_8
         return tmp.split("_")[2] # 8
+
+    def get_datalink_add_details(self, formattedLog):
+        addedDatalinkDetails = formattedLog.split('=>')[3] # from:module_id_7*frompid:multiplication_result.txt*to:module_id_8*topid:second_number.txt
+        fromModule = addedDatalinkDetails.split('*')[0] # from:module_id_7
+        fromModule = fromModule.split(":")[1] # module_id_7
+        fromModule = fromModule.split("_")[2] #7
+
+        toModule = addedDatalinkDetails.split('*')[2] # to:module_id_8
+        toModule = toModule.split(":")[1] # module_id_8
+        toModule = toModule.split("_")[2] #8
+
+
+        return {"from":fromModule, "to":toModule}
+
+
+
+    def get_module_move_details(self, formattedLog):
+        module_moved = formattedLog.split('=>')[3] #key:module_id_8*x:424*y:61
+        moduleId = module_moved.split("*")[0] #key:module_id_8
+        moduleId = moduleId.split(":")[1] #module_id_8
+        moduleId = moduleId.split("_")[2] #8
+
+        newX = module_moved.split("*")[1].split(":")[1] #424
+        newY = module_moved.split("*")[2].split(":")[1] #61
+
+
+        return {"moduleId": moduleId, "x":newX, 'y':newY}
+
+
+
+
+
+
+
+
+
+
+
+
