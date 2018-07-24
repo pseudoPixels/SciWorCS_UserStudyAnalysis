@@ -20,25 +20,31 @@ logAnalyser = LogAnalyser(rawLog)
 
 
 
-chatCount = logAnalyser.get_P2P_communication_count()
+# chatCount = logAnalyser.get_P2P_communication_count()
+#
+# print('Chat Counts -> ' + str(chatCount))
+#
+# chatPar = logAnalyser.get_P2P_communication_percentage()
+#
+#
+# print('Chat Counts -> ' + str(chatPar) + "%")
+#
+# floorAccessTime = logAnalyser.get_floor_accessed_time()
+#
+# print(floorAccessTime)
+#
+#
+# totalLogTime = logAnalyser.get_total_log_time()
+#
+# print(totalLogTime)
+#
+#
+# accessP = logAnalyser.get_floor_access_percentage()
+#
+# print("Percentage:: " + str(accessP) + "%")
+#
+# print( logAnalyser.get_P2P_all_sent_texts() )
 
-print('Chat Counts -> ' + str(chatCount))
-
-chatPar = logAnalyser.get_P2P_communication_percentage()
 
 
-print('Chat Counts -> ' + str(chatPar) + "%")
-
-floorAccessTime = logAnalyser.get_floor_accessed_time()
-
-print(floorAccessTime)
-
-
-totalLogTime = logAnalyser.get_total_log_time()
-
-print(totalLogTime)
-
-
-accessP = logAnalyser.get_floor_access_percentage()
-
-print("Percentage:: " + str(accessP) + "%")
+print(logAnalyser.get_floor_access_release_time_series())

@@ -15,9 +15,18 @@ class LogAnalyser:
 
 
 
+
+
+
+
+
+#################################################################
+############  Communication Related Analysis ####################
+########################STARTS###################################
+
+
     def get_P2P_communication_count(self):
         chatCount = 0
-
 
         for i in range(self._totalEventCount):
             formattedLogEntry = logParser.transformRawToRequiredFormat(self._rawLog[i])
@@ -31,14 +40,67 @@ class LogAnalyser:
 
 
     def get_P2P_communication_percentage(self):
-        totalEventCount = len(self._rawLog)
-
         return self.get_P2P_communication_count() * 100 / self._totalEventCount
 
 
-    
+    def get_P2P_sent_text_char_counts(self):
+        total_char_counts = 0
+
+        for i in range(self._totalEventCount):
+            formattedLogEntry = logParser.transformRawToRequiredFormat(self._rawLog[i])
+
+            eventType = logParser.getEventType(formattedLogEntry)
+
+            if eventType == 'P2P_CHAT_SENT':
+                sentText = logParser.get_P2P_sent_text(formattedLogEntry)
+                total_char_counts += len(sentText)
+                #print(sentText)
+
+        return total_char_counts
 
 
+
+    def get_P2P_all_sent_texts(self):
+        allTexts = ''
+        for i in range(self._totalEventCount):
+            formattedLogEntry = logParser.transformRawToRequiredFormat(self._rawLog[i])
+
+            eventType = logParser.getEventType(formattedLogEntry)
+
+            if eventType == 'P2P_CHAT_SENT':
+                sentText = logParser.get_P2P_sent_text(formattedLogEntry)
+                allTexts += sentText + '\n'
+
+        return allTexts
+
+
+########################ENDS#####################################
+############  Communication Related Analysis ####################
+#################################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#################################################################
+############  Floor Access Related Analysis #####################
+########################STARTS###################################
 
     def get_floor_accessed_time(self):
 
@@ -71,6 +133,36 @@ class LogAnalyser:
         return elapsedTime
 
 
+    def get_floor_access_release_time_series(self):
+        floor_request_time_stamp = ''
+        floor_release_time_stamp = ''
+        isFloorRequested = False
+        floor_access_release_time_series = []
+
+
+        for i in range(self._totalEventCount):
+            formattedLogEntry = logParser.transformRawToRequiredFormat(self._rawLog[i])
+
+            eventType = logParser.getEventType(formattedLogEntry)
+
+            if eventType == 'FLOOR_REQUESTED':
+                floor_request_time_stamp = logParser.getTime(formattedLogEntry)
+                isFloorRequested = True
+                floor_access_release_time_series.append(floor_request_time_stamp)
+            elif eventType == 'FLOOR_RELEASED':
+                floor_release_time_stamp = logParser.getTime(formattedLogEntry)
+                isFloorRequested = False
+                floor_access_release_time_series.append(floor_release_time_stamp)
+
+
+        #special case: when collaborator requested the floor but never released (i.e., due to the end of experiment)
+        if isFloorRequested == True:
+            floor_access_release_time_series.append(floor_release_time_stamp)
+
+
+        return floor_access_release_time_series
+
+
 
     #total time in between the start and end of the log
     def get_total_log_time(self):
@@ -83,7 +175,71 @@ class LogAnalyser:
         return TimeUtility().getTimeDifference(start_time, end_time)
 
 
-
     #the time ratio of this user's floor access time
     def get_floor_access_percentage(self):
         return self.get_floor_accessed_time() * 100 / self.get_total_log_time()
+
+########################ENDS#####################################
+############  Floor Access Related Analysis #####################
+#################################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#################################################################
+############ Module Related Analysis ############################
+########################STARTS###################################
+    def get_module_addition_count(self):
+        module_add_count = 0
+
+        for i in range(self._totalEventCount):
+            formattedLogEntry = logParser.transformRawToRequiredFormat(self._rawLog[i])
+
+            eventType = logParser.getEventType(formattedLogEntry)
+
+            if eventType == 'MODULE_ADDED':
+                module_add_count += 1
+
+        return module_add_count
+
+
+
+    def get_module_deletion_count(self):
+        module_del_count = 0
+
+        for i in range(self._totalEventCount):
+            formattedLogEntry = logParser.transformRawToRequiredFormat(self._rawLog[i])
+
+            eventType = logParser.getEventType(formattedLogEntry)
+
+            if eventType == 'MODULE_DELETED':
+                module_del_count += 1
+
+        return module_del_count
+########################ENDS#####################################
+############  Module Related Analysis ###########################
+#################################################################
+
+
