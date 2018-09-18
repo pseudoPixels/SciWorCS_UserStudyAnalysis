@@ -31,6 +31,8 @@ class LogAnalyser:
         for i in range(self._totalEventCount):
             formattedLogEntry = logParser.transformRawToRequiredFormat(self._rawLog[i])
 
+            #print (formattedLogEntry)
+
             eventType = logParser.getEventType(formattedLogEntry)
 
             if eventType == 'P2P_CHAT_SENT':
@@ -307,6 +309,11 @@ class LogAnalyser:
 
 
 
+
+
+
+
+    #the datalink added stats : (from, to)
     def get_datalink_add_stats(self):
         added_datalinks = []
 
@@ -320,6 +327,39 @@ class LogAnalyser:
                 added_datalinks.append(newLink)
 
         return added_datalinks
+
+
+
+    #the datalink deleted stats : (from, to)
+    def get_datalink_delete_stats(self):
+        deleted_datalinks = []
+
+        for i in range(self._totalEventCount):
+            formattedLogEntry = logParser.transformRawToRequiredFormat(self._rawLog[i])
+
+            eventType = logParser.getEventType(formattedLogEntry)
+
+            if eventType == 'DATALINK_DELETED':
+                deletedLink = logParser.get_datalink_add_details(formattedLogEntry)
+                deleted_datalinks.append(deletedLink)
+
+        return deleted_datalinks
+
+
+
+
+
+
+
+    #the count for total number of datalink added.
+    def get_datalink_added_count(self):
+        return len(self.get_datalink_add_stats())
+
+
+    #the count for total number of datalink deleted
+    def get_datalink_deleted_count(self):
+        return len(self.get_datalink_delete_stats())
+
 
 
 
@@ -438,5 +478,65 @@ class LogAnalyser:
 ########################ENDS#####################################
 ############  Module Related Analysis ###########################
 #################################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#################################################################
+############ WORKFLOW OBJECT Related Analysis ###################
+########################STARTS###################################
+
+    def get_total_edit_operations_on_workflow_object(self):
+
+        count_module_addition = self.get_module_addition_count()
+        count_module_deletion = self.get_module_deletion_count()
+
+        count_datalink_added = self.get_datalink_added_count()
+        count_datalink_deleted = self.get_datalink_deleted_count()
+
+        count_module_config_updates = self.get_module_config_update_count()
+
+
+        total_edit_counts = count_module_addition + count_module_deletion + count_module_config_updates + count_datalink_added + count_datalink_deleted
+
+        return total_edit_counts
+
+
+
+
+
+########################ENDS#####################################
+############ WORKFLOW OBJECT Related Analysis ###################
+#################################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
