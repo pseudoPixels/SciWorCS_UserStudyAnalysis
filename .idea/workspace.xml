@@ -3,11 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ad9beac8-d4b6-49b5-b481-6bc29b3a0f93" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/Scripts/GraphPlots/workflow_composition_pattern.py" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Datasets/CHI19_Datasets/CHI 2019 (work)/Study 2/Participant 8/Participant_task3.log" afterPath="$PROJECT_DIR$/Datasets/CHI19_Datasets/CHI 2019 (work)/Study 2/Participant 8/Participant_task3.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Datasets/CHI19_Datasets/CHI 2019 (work)/Study 2/Participant 3/participant_3_task3.log" afterPath="$PROJECT_DIR$/Datasets/CHI19_Datasets/CHI 2019 (work)/Study 2/Participant 3/participant_3_task3.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scripts/GraphPlot_ill_vs_well_contribution_plot.py" afterPath="$PROJECT_DIR$/Scripts/GraphPlot_ill_vs_well_contribution_plot.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scripts/LogAnalyser.py" afterPath="$PROJECT_DIR$/Scripts/LogAnalyser.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scripts/main2.py" afterPath="$PROJECT_DIR$/Scripts/main2.py" />
     </list>
     <ignored path="SciWorCS_User_Study_Result_Analysis.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,8 +26,8 @@
       <file leaf-file-name="GraphPlot_ill_vs_well_contribution_plot.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Scripts/GraphPlot_ill_vs_well_contribution_plot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="804">
-              <caret line="181" column="38" selection-start-line="181" selection-start-column="38" selection-end-line="181" selection-end-column="38" />
+            <state relative-caret-position="714">
+              <caret line="157" column="15" selection-start-line="157" selection-start-column="15" selection-end-line="157" selection-end-column="15" />
               <folding>
                 <element signature="e#615#633#0" expanded="true" />
               </folding>
@@ -42,8 +38,8 @@
       <file leaf-file-name="participant_11_task_3" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Datasets/CHI19_Datasets/CHI 2019 (work)/Study 3/participant_11_task_3">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+            <state relative-caret-position="525">
+              <caret line="35" column="95" selection-start-line="35" selection-start-column="95" selection-end-line="35" selection-end-column="95" />
               <folding />
             </state>
           </provider>
@@ -1021,16 +1017,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Datasets/CHI19_Datasets/CHI 2019 (work)/Study 3/participant_11_task_3">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+        <state relative-caret-position="525">
+          <caret line="35" column="95" selection-start-line="35" selection-start-column="95" selection-end-line="35" selection-end-column="95" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Scripts/GraphPlot_ill_vs_well_contribution_plot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="804">
-          <caret line="181" column="38" selection-start-line="181" selection-start-column="38" selection-end-line="181" selection-end-column="38" />
+        <state relative-caret-position="714">
+          <caret line="157" column="15" selection-start-line="157" selection-start-column="15" selection-end-line="157" selection-end-column="15" />
           <folding>
             <element signature="e#615#633#0" expanded="true" />
           </folding>
