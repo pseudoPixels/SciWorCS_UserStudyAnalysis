@@ -1,0 +1,44 @@
+telepointer_module_lockingGO.js:1007 darin@gmail.com =>MODULE_CONFIG_CLOSED
+telepointer_module_lockingGO.js:3214 darin@gmail.com =>CHATBOX_OPENED=>chatWith:john_gmail_com
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:hi Nat
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:ok
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:do a part of the first one and give me access after that
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:dont connect all the links
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:give me access to connect the links
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:to make sure
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:ok
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:can u giv me access
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:by r8 click on the tools
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:r u there ?
+telepointer_module_lockingGO.js:2688 darin@gmail.com =>SUB_WORKFLOW_LOG_GRANTED=>rootNode:module_id_3
+telepointer_module_lockingGO.js:1131 darin@gmail.com =>SUB_WORKFLOW_LOCK_REQUESTED=>rootNode:module_id_3
+telepointer_module_lockingGO.js:2688 darin@gmail.com =>SUB_WORKFLOW_LOG_GRANTED=>rootNode:module_id_4
+telepointer_module_lockingGO.js:1131 darin@gmail.com =>SUB_WORKFLOW_LOCK_REQUESTED=>rootNode:module_id_4
+telepointer_module_lockingGO.js:2688 darin@gmail.com =>SUB_WORKFLOW_LOG_GRANTED=>rootNode:module_id_5
+telepointer_module_lockingGO.js:1131 darin@gmail.com =>SUB_WORKFLOW_LOCK_REQUESTED=>rootNode:module_id_5
+telepointer_module_lockingGO.js:2688 darin@gmail.com =>SUB_WORKFLOW_LOG_GRANTED=>rootNode:module_id_6
+telepointer_module_lockingGO.js:1131 darin@gmail.com =>SUB_WORKFLOW_LOCK_REQUESTED=>rootNode:module_id_6
+telepointer_module_lockingGO.js:2688 darin@gmail.com =>SUB_WORKFLOW_LOG_GRANTED=>rootNode:module_id_7
+telepointer_module_lockingGO.js:1131 darin@gmail.com =>SUB_WORKFLOW_LOCK_REQUESTED=>rootNode:module_id_7
+telepointer_module_lockingGO.js:1767 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_5
+telepointer_module_lockingGO.js:1089 darin@gmail.com =>DATALINK_ADDED=>from:module_id_3*frompid:output_file.txt*to:module_id_5*topid:FASTQ_file.txt
+telepointer_module_lockingGO.js:1767 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_6
+telepointer_module_lockingGO.js:1089 darin@gmail.com =>DATALINK_ADDED=>from:module_id_4*frompid:output_file.txt*to:module_id_6*topid:FASTQ_file.txt
+telepointer_module_lockingGO.js:1767 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_7
+telepointer_module_lockingGO.js:1089 darin@gmail.com =>DATALINK_ADDED=>from:module_id_5*frompid:output.txt*to:module_id_7*topid:Chip_seq_tag.txt
+telepointer_module_lockingGO.js:1767 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_7
+telepointer_module_lockingGO.js:1089 darin@gmail.com =>DATALINK_ADDED=>from:module_id_6*frompid:output.txt*to:module_id_7*topid:Chip_seq_control.txt
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:ok done
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:ok
+telepointer_module_lockingGO.js:2801 darin@gmail.com =>MODULE_ADDED=>module_id:12
+telepointer_module_lockingGO.js:1108 darin@gmail.com =>MODULE_MOVED=>key:module_id_12*x:158.39452795515194*y:341.3024947605058
+telepointer_module_lockingGO.js:2688 darin@gmail.com =>SUB_WORKFLOW_LOG_GRANTED=>rootNode:module_id_11
+telepointer_module_lockingGO.js:1131 darin@gmail.com =>SUB_WORKFLOW_LOCK_REQUESTED=>rootNode:module_id_11
+telepointer_module_lockingGO.js:2801 darin@gmail.com =>MODULE_ADDED=>module_id:13
+telepointer_module_lockingGO.js:1108 darin@gmail.com =>MODULE_MOVED=>key:module_id_13*x:190.45056337464712*y:126.33849253565683
+telepointer_module_lockingGO.js:1108 darin@gmail.com =>MODULE_MOVED=>key:module_id_13*x:546.8382512737387*y:339.41684561818255
+telepointer_module_lockingGO.js:1767 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_12
+telepointer_module_lockingGO.js:1089 darin@gmail.com =>DATALINK_ADDED=>from:module_id_11*frompid:out_file_1.txt*to:module_id_12*topid:sort_query.txt
+telepointer_module_lockingGO.js:1767 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_13
+telepointer_module_lockingGO.js:1089 darin@gmail.com =>DATALINK_ADDED=>from:module_id_12*frompid:out_file_1.txt*to:module_id_13*topid:from.txt
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:done

@@ -1,0 +1,56 @@
+css/landing.css:1 Failed to load resource: the server responded with a status of 404 (NOT FOUND)
+55x55.png:1 Failed to load resource: the server responded with a status of 404 (NOT FOUND)
+nav-expand.png:1 Failed to load resource: the server responded with a status of 404 (NOT FOUND)
+telepointer_module_lockingGO.js:1007 john@gmail.com =>MODULE_CONFIG_CLOSED
+telepointer_module_lockingGO.js:3126 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:let me start
+nav-expand.png:1 Failed to load resource: the server responded with a status of 404 (NOT FOUND)
+telepointer_module_lockingGO.js:2801 john@gmail.com =>MODULE_ADDED=>module_id:1
+telepointer_module_lockingGO.js:1108 john@gmail.com =>MODULE_MOVED=>key:module_id_1*x:-282*y:-125.6666669845581
+telepointer_module_lockingGO.js:2801 john@gmail.com =>MODULE_ADDED=>module_id:2
+telepointer_module_lockingGO.js:1108 john@gmail.com =>MODULE_MOVED=>key:module_id_2*x:-264*y:77.3333330154419
+telepointer_module_lockingGO.js:2801 john@gmail.com =>MODULE_ADDED=>module_id:3
+telepointer_module_lockingGO.js:1108 john@gmail.com =>MODULE_MOVED=>key:module_id_3*x:59*y:-64.6666669845581
+telepointer_module_lockingGO.js:1108 john@gmail.com =>MODULE_MOVED=>key:module_id_1*x:-1040.0850586126921*y:-409.64773656010624
+telepointer_module_lockingGO.js:1108 john@gmail.com =>MODULE_MOVED=>key:module_id_2*x:-1031.7115355474566*y:-175.3616865221221
+telepointer_module_lockingGO.js:1108 john@gmail.com =>MODULE_MOVED=>key:module_id_3*x:-573.9408584607556*y:-360.68083272856165
+telepointer_module_lockingGO.js:2801 john@gmail.com =>MODULE_ADDED=>module_id:4
+telepointer_module_lockingGO.js:1108 john@gmail.com =>MODULE_MOVED=>key:module_id_4*x:-534.2694698794212*y:-133.96847144051412
+telepointer_module_lockingGO.js:1108 john@gmail.com =>MODULE_MOVED=>key:module_id_4*x:-567.9621391510963*y:-160.44128301111607
+telepointer_module_lockingGO.js:1108 john@gmail.com =>MODULE_MOVED=>key:module_id_1*x:-1040.0850586126921*y:-390.39478269057753
+telepointer_module_lockingGO.js:1767 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_3
+telepointer_module_lockingGO.js:1089 john@gmail.com =>DATALINK_ADDED=>from:module_id_1*frompid:output.txt*to:module_id_3*topid:file_to_groom.txt
+telepointer_module_lockingGO.js:1767 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_4
+telepointer_module_lockingGO.js:1089 john@gmail.com =>DATALINK_ADDED=>from:module_id_2*frompid:output.txt*to:module_id_4*topid:file_to_groom.txt
+telepointer_module_lockingGO.js:2801 john@gmail.com =>MODULE_ADDED=>module_id:5
+telepointer_module_lockingGO.js:1108 john@gmail.com =>MODULE_MOVED=>key:module_id_5*x:-158.83686942361146*y:-309.65167549996346
+telepointer_module_lockingGO.js:3126 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:ok
+telepointer_module_lockingGO.js:2801 john@gmail.com =>MODULE_ADDED=>module_id:6
+telepointer_module_lockingGO.js:1108 john@gmail.com =>MODULE_MOVED=>key:module_id_6*x:-149.21039248884745*y:-71.39637136454587
+telepointer_module_lockingGO.js:2801 john@gmail.com =>MODULE_ADDED=>module_id:7
+telepointer_module_lockingGO.js:1108 john@gmail.com =>MODULE_MOVED=>key:module_id_7*x:243.06854260279965*y:-179.69423688064478
+telepointer_module_lockingGO.js:3126 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:go ahead
+telepointer_module_lockingGO.js:1007 john@gmail.com =>MODULE_CONFIG_CLOSED
+telepointer_module_lockingGO.js:1007 john@gmail.com =>MODULE_CONFIG_CLOSED
+telepointer_module_lockingGO.js:1169 john@gmail.com =>SUB_WORKFLOW_LOCK_RELEASED=>rootNode:module_id_5
+telepointer_module_lockingGO.js:1169 john@gmail.com =>SUB_WORKFLOW_LOCK_RELEASED=>rootNode:module_id_6
+telepointer_module_lockingGO.js:1169 john@gmail.com =>SUB_WORKFLOW_LOCK_RELEASED=>rootNode:module_id_7
+telepointer_module_lockingGO.js:1169 john@gmail.com =>SUB_WORKFLOW_LOCK_RELEASED=>rootNode:module_id_4
+telepointer_module_lockingGO.js:1169 john@gmail.com =>SUB_WORKFLOW_LOCK_RELEASED=>rootNode:module_id_3
+telepointer_module_lockingGO.js:2801 john@gmail.com =>MODULE_ADDED=>module_id:8
+telepointer_module_lockingGO.js:1108 john@gmail.com =>MODULE_MOVED=>key:module_id_8*x:-1030.033032019785*y:234.24427131422203
+telepointer_module_lockingGO.js:2801 john@gmail.com =>MODULE_ADDED=>module_id:9
+telepointer_module_lockingGO.js:1108 john@gmail.com =>MODULE_MOVED=>key:module_id_9*x:-1013.1866973839471*y:450.8400023464199
+telepointer_module_lockingGO.js:1108 john@gmail.com =>MODULE_MOVED=>key:module_id_9*x:-1022.8131743187116*y:450.8400023464199
+telepointer_module_lockingGO.js:2801 john@gmail.com =>MODULE_ADDED=>module_id:10
+telepointer_module_lockingGO.js:1108 john@gmail.com =>MODULE_MOVED=>key:module_id_10*x:-635.3474776944466*y:330.50904066186547
+telepointer_module_lockingGO.js:2801 john@gmail.com =>MODULE_ADDED=>module_id:11
+telepointer_module_lockingGO.js:1108 john@gmail.com =>MODULE_MOVED=>key:module_id_11*x:-243.06854260279965*y:335.3222791292477
+telepointer_module_lockingGO.js:1767 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_10
+telepointer_module_lockingGO.js:1089 john@gmail.com =>DATALINK_ADDED=>from:module_id_8*frompid:output.txt*to:module_id_10*topid:join.txt
+telepointer_module_lockingGO.js:1767 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_10
+telepointer_module_lockingGO.js:1089 john@gmail.com =>DATALINK_ADDED=>from:module_id_9*frompid:output.txt*to:module_id_10*topid:with.txt
+telepointer_module_lockingGO.js:1767 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_11
+telepointer_module_lockingGO.js:1089 john@gmail.com =>DATALINK_ADDED=>from:module_id_10*frompid:output.txt*to:module_id_11*topid:select_data.txt
+telepointer_module_lockingGO.js:1169 john@gmail.com =>SUB_WORKFLOW_LOCK_RELEASED=>rootNode:module_id_11
+telepointer_module_lockingGO.js:3126 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:go ahead from here'
+landing.css:1 Failed to load resource: the server responded with a status of 404 (NOT FOUND)

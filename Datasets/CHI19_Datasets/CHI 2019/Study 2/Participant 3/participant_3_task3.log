@@ -1,0 +1,12 @@
+15:39:09.013 telepointerGO.js:309 darin@gmail.com =>BACKGROUND_SINGLE_CLICKED
+15:39:10.558 telepointerGO.js:3658 darin@gmail.com =>CHATBOX_OPENED=>chatWith:john_gmail_com
+15:39:17.424 telepointerGO.js:3570 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:you work
+15:39:23.855 telepointerGO.js:3570 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:on that
+15:39:37.254 telepointerGO.js:3570 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:I did not understand missing values
+15:40:18.733 telepointerGO.js:3570 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:select dataset
+15:40:26.589 telepointerGO.js:3570 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:on module 1
+15:40:38.018 telepointerGO.js:288 darin@gmail.com =>MODULE_CONFIG_OPENED=>moduleID:module_id_1
+15:40:41.616 telepointerGO.js:318 darin@gmail.com =>MODULE_CONFIG_CLOSED
+15:40:53.597 telepointerGO.js:3570 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:ok run it
+15:42:09.587 telepointerGO.js:3570 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:are you done?
+15:42:52.811 telepointerGO.js:3570 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:ok

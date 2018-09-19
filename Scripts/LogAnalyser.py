@@ -202,6 +202,21 @@ class LogAnalyser:
                 total_waiting_time += t_diff
         return total_waiting_time
 
+    def get_floor_request_count(self):
+        total_floorReq_counts = 0
+
+        for i in range(self._totalEventCount):
+            formattedLogEntry = logParser.transformRawToRequiredFormat(self._rawLog[i])
+
+            eventType = logParser.getEventType(formattedLogEntry)
+
+            if eventType == 'FLOOR_REQUESTED':
+                sentText = logParser.get_P2P_sent_text(formattedLogEntry)
+                total_floorReq_counts += len(sentText)
+                #print(sentText)
+
+        return total_floorReq_counts
+
 ########################ENDS#####################################
 ############  Floor Access Related Analysis #####################
 #################################################################
@@ -378,6 +393,8 @@ class LogAnalyser:
         return moved_modules
 
 
+    def get_module_move_counts(self):
+        return len(self.get_module_move_stats())
 
 
     ########################################

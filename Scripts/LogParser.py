@@ -5,7 +5,11 @@ class LogParser:
     def __init__(self):
         pass
 
-    def transformRawToRequiredFormat(self, rawLogEntry):
+    def transformRawToRequiredFormat(self, rawLogEntry, isTimeStampAvailable=True):
+        if isTimeStampAvailable == False:
+            rawLogEntry = 'TIME ' + rawLogEntry
+
+
         res = ''
         spaceSplit = rawLogEntry.split(' ')
 

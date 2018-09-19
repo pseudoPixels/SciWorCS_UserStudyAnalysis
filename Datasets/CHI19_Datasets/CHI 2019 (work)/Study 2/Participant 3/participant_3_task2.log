@@ -1,0 +1,94 @@
+15:10:44.575 telepointerGO.js:1313 darin@gmail.com =>FLOOR_REQUESTED
+15:10:44.919 telepointerGO.js:895 darin@gmail.com =>GOT_THE_FLOOR
+15:10:53.807 telepointerGO.js:3658 darin@gmail.com =>CHATBOX_OPENED=>chatWith:john_gmail_com
+15:11:10.746 telepointerGO.js:3570 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:I will form the equation
+15:11:19.551 telepointerGO.js:3089 darin@gmail.com =>MODULE_ADDED=>module_id:1
+15:11:19.756 telepointerGO.js:3089 darin@gmail.com =>MODULE_ADDED=>module_id:2
+15:11:19.780 telepointerGO.js:2338 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_1
+15:11:19.784 telepointerGO.js:2338 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_1
+15:11:19.982 telepointerGO.js:2338 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_2
+15:11:19.985 telepointerGO.js:2338 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_2
+15:11:21.705 telepointerGO.js:406 darin@gmail.com =>MODULE_MOVED=>key:module_id_2*x:-593*y:-190.00000000000003
+15:11:27.015 telepointerGO.js:406 darin@gmail.com =>MODULE_MOVED=>key:module_id_1*x:-634*y:66
+15:11:29.334 telepointerGO.js:406 darin@gmail.com =>MODULE_MOVED=>key:module_id_2*x:-242*y:119.99999999999997
+15:11:31.030 telepointerGO.js:406 darin@gmail.com =>MODULE_MOVED=>key:module_id_1*x:-587*y:-231
+15:11:32.510 telepointerGO.js:406 darin@gmail.com =>MODULE_MOVED=>key:module_id_2*x:-574*y:-2.842170943040401e-14
+15:11:35.734 telepointerGO.js:309 darin@gmail.com =>BACKGROUND_SINGLE_CLICKED
+15:11:43.622 telepointerGO.js:406 darin@gmail.com =>MODULE_MOVED=>key:module_id_1*x:-677*y:-205
+15:11:44.702 telepointerGO.js:406 darin@gmail.com =>MODULE_MOVED=>key:module_id_2*x:-652*y:35.99999999999997
+15:11:48.765 telepointerGO.js:3089 darin@gmail.com =>MODULE_ADDED=>module_id:3
+15:11:48.996 telepointerGO.js:2338 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_3
+15:11:49.000 telepointerGO.js:2338 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_3
+15:11:49.002 telepointerGO.js:2338 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_3
+15:11:51.174 telepointerGO.js:406 darin@gmail.com =>MODULE_MOVED=>key:module_id_3*x:-258*y:-221.00000000000003
+15:11:53.863 telepointerGO.js:3089 darin@gmail.com =>MODULE_ADDED=>module_id:4
+15:11:54.087 telepointerGO.js:2338 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_4
+15:11:54.091 telepointerGO.js:2338 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_4
+15:11:54.095 telepointerGO.js:2338 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_4
+15:11:55.051 telepointerGO.js:406 darin@gmail.com =>MODULE_MOVED=>key:module_id_4*x:0*y:3
+15:11:57.054 telepointerGO.js:406 darin@gmail.com =>MODULE_MOVED=>key:module_id_4*x:-257*y:49
+15:12:10.222 telepointerGO.js:3089 darin@gmail.com =>MODULE_ADDED=>module_id:5
+15:12:10.451 telepointerGO.js:2338 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_5
+15:12:10.454 telepointerGO.js:2338 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_5
+15:12:10.457 telepointerGO.js:2338 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_5
+15:12:13.077 telepointerGO.js:406 darin@gmail.com =>MODULE_MOVED=>key:module_id_5*x:204*y:-216.00000000000003
+15:12:14.628 telepointerGO.js:3089 darin@gmail.com =>MODULE_ADDED=>module_id:6
+15:12:14.853 telepointerGO.js:2338 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_6
+15:12:14.858 telepointerGO.js:2338 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_6
+15:12:14.860 telepointerGO.js:2338 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_6
+15:12:19.029 telepointerGO.js:406 darin@gmail.com =>MODULE_MOVED=>key:module_id_6*x:210*y:48
+15:13:02.413 telepointerGO.js:3570 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:ok I dont get the last one
+15:13:22.276 telepointerGO.js:1324 darin@gmail.com =>FLOOR_RELEASED
+15:13:27.604 telepointerGO.js:3570 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:I released
+15:14:07.900 telepointerGO.js:3570 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:Adition? or multiplication?
+15:14:20.003 telepointerGO.js:3570 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:do ti quickly
+15:14:40.283 telepointerGO.js:3570 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:two parts of the operator?
+15:15:25.339 telepointerGO.js:3570 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:two side square
+15:15:39.267 telepointerGO.js:3570 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:and summation of them
+15:16:30.250 telepointerGO.js:3570 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:everything is ok?
+15:17:04.514 telepointerGO.js:3570 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:operator is wrong
+15:17:11.898 telepointerGO.js:3570 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:add adition
+15:17:24.001 telepointerGO.js:3570 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:now it will be ok
+
+
+STATS
+=================================
+P2P_CHAT_SENT: 12
+FLOOR_REQUESTED: 1
+MODULE_ADDED: 6
+DATALINK_ADDED: 0
+MODULE_DELETED: 0
+DATALINK_DELETED: 0
+MODULE_CONFIG_CHANGE: 16
+totalEdits: 22
+MODULE_MOVED: 12
+
+
+STATS 2
+=================================
+P2P_CHAT_SENT: 8
+FLOOR_REQUESTED: 1
+MODULE_ADDED: 3
+DATALINK_ADDED: 8
+MODULE_DELETED: 3
+DATALINK_DELETED: 0
+MODULE_CONFIG_CHANGE: 30
+totalEdits: 44
+MODULE_MOVED: 6
+
+
+
+RATIO
+=================================
+P2P_CHAT_SENT: 8/(8+12) = 0.4
+FLOOR_REQUESTED: 1/(1+1) = 0.5
+MODULE_ADDED: 3/(3+6) = 0.333333333
+DATALINK_ADDED: 8/(8+0) = 1
+MODULE_DELETED: 3/(3+0) = 1
+DATALINK_DELETED: 0/0 = 0
+MODULE_CONFIG_CHANGE: 30/(30+16) = 0.652173913
+totalEdits: 44/(44+22) = 0.666666667
+MODULE_MOVED: 6/(6+12) = 0.333333333
+
+
+

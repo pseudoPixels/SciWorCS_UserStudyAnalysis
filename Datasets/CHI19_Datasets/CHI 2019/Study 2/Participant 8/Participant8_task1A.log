@@ -1,0 +1,122 @@
+telepointerGO.js:1313 john@gmail.com =>FLOOR_REQUESTED
+telepointerGO.js:895 john@gmail.com =>GOT_THE_FLOOR
+telepointerGO.js:318 john@gmail.com =>MODULE_CONFIG_CLOSED
+telepointerGO.js:3658 john@gmail.com =>CHATBOX_OPENED=>chatWith:darin_gmail_com
+telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:I got the turn
+telepointerGO.js:318 john@gmail.com =>MODULE_CONFIG_CLOSED
+telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:I will do the second one
+telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:okay
+telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:did you get the input dataset module
+telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:i did not find it
+telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:it shows galaxy input dataset
+telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:in the picture it's input dataset
+telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:okay
+telepointerGO.js:3089 john@gmail.com =>MODULE_ADDED=>module_id:1
+telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_1
+telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_1
+telepointerGO.js:406 john@gmail.com =>MODULE_MOVED=>key:module_id_1*x:-514*y:-166
+telepointerGO.js:406 john@gmail.com =>MODULE_MOVED=>key:module_id_1*x:-536*y:-174
+telepointerGO.js:3089 john@gmail.com =>MODULE_ADDED=>module_id:2
+telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_2
+telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_2
+telepointerGO.js:3089 john@gmail.com =>MODULE_ADDED=>module_id:3
+telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_3
+telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_3
+telepointerGO.js:406 john@gmail.com =>MODULE_MOVED=>key:module_id_3*x:-428*y:33
+telepointerGO.js:336 john@gmail.com =>MODULE_DELETED=>module_id:module_id_3
+telepointerGO.js:406 john@gmail.com =>MODULE_MOVED=>key:module_id_2*x:-536*y:24
+telepointerGO.js:309 john@gmail.com =>BACKGROUND_SINGLE_CLICKED
+telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:drawing
+telepointerGO.js:3089 john@gmail.com =>MODULE_ADDED=>module_id:4
+telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_4
+telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_4
+telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_4
+telepointerGO.js:3089 john@gmail.com =>MODULE_ADDED=>module_id:5
+telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_5
+telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_5
+telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_5
+telepointerGO.js:406 john@gmail.com =>MODULE_MOVED=>key:module_id_5*x:-149*y:83
+telepointerGO.js:406 john@gmail.com =>MODULE_MOVED=>key:module_id_4*x:-112*y:-199
+telepointerGO.js:406 john@gmail.com =>MODULE_MOVED=>key:module_id_5*x:-101*y:16
+telepointerGO.js:3089 john@gmail.com =>MODULE_ADDED=>module_id:6
+telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_6
+telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_6
+telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_6
+telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_6
+telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_6
+telepointerGO.js:406 john@gmail.com =>MODULE_MOVED=>key:module_id_6*x:239*y:-98
+telepointerGO.js:1324 john@gmail.com =>FLOOR_RELEASED
+telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:okay
+telepointerGO.js:318 john@gmail.com =>MODULE_CONFIG_CLOSED
+telepointerGO.js:318 john@gmail.com =>MODULE_CONFIG_CLOSED
+telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:single click
+telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:not drag and drop
+telepointerGO.js:309 john@gmail.com =>BACKGROUND_SINGLE_CLICKED
+telepointerGO.js:309 john@gmail.com =>BACKGROUND_SINGLE_CLICKED
+telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:done
+telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:?
+telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:do not run it
+telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:just we need to draw
+telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:that's all
+telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:no talk
+telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:use the chat box
+telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:we do not need to save it
+telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:where are you
+telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:hey
+telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:okay we will start the second workflow
+telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:okay
+telepointerGO.js:1313 john@gmail.com =>FLOOR_REQUESTED
+telepointerGO.js:895 john@gmail.com =>GOT_THE_FLOOR
+telepointerGO.js:318 john@gmail.com =>MODULE_CONFIG_CLOSED
+telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:yes i got the floor
+telepointerGO.js:3089 john@gmail.com =>MODULE_ADDED=>module_id:9
+telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_9
+telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_9
+telepointerGO.js:406 john@gmail.com =>MODULE_MOVED=>key:module_id_9*x:-733*y:190
+telepointerGO.js:3089 john@gmail.com =>MODULE_ADDED=>module_id:10
+telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_10
+telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_10
+telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_10
+telepointerGO.js:406 john@gmail.com =>MODULE_MOVED=>key:module_id_10*x:-363*y:193
+telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:which one is the filter FASTQ
+telepointerGO.js:406 john@gmail.com =>MODULE_MOVED=>key:module_id_10*x:30*y:174
+telepointerGO.js:3089 john@gmail.com =>MODULE_ADDED=>module_id:11
+telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_11
+telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_11
+telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_11
+telepointerGO.js:406 john@gmail.com =>MODULE_MOVED=>key:module_id_10*x:-13*y:155
+telepointerGO.js:3089 john@gmail.com =>MODULE_ADDED=>module_id:12
+telepointerGO.js:3089 john@gmail.com =>MODULE_ADDED=>module_id:13
+telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_12
+telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_12
+telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_12
+telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_13
+telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_13
+telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_13
+telepointerGO.js:406 john@gmail.com =>MODULE_MOVED=>key:module_id_13*x:-392*y:188
+telepointerGO.js:406 john@gmail.com =>MODULE_MOVED=>key:module_id_12*x:122*y:14
+telepointerGO.js:336 john@gmail.com =>MODULE_DELETED=>module_id:module_id_12
+telepointerGO.js:336 john@gmail.com =>MODULE_DELETED=>module_id:module_id_11
+telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:thanks man
+telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:you saved my day
+telepointerGO.js:406 john@gmail.com =>MODULE_MOVED=>key:module_id_13*x:-336*y:181
+telepointerGO.js:406 john@gmail.com =>MODULE_MOVED=>key:module_id_10*x:34*y:183
+telepointerGO.js:406 john@gmail.com =>MODULE_MOVED=>key:module_id_13*x:-347*y:193
+telepointerGO.js:406 john@gmail.com =>MODULE_MOVED=>key:module_id_10*x:2*y:196
+telepointerGO.js:406 john@gmail.com =>MODULE_MOVED=>key:module_id_13*x:-395*y:186
+telepointerGO.js:406 john@gmail.com =>MODULE_MOVED=>key:module_id_10*x:-39*y:196
+telepointerGO.js:406 john@gmail.com =>MODULE_MOVED=>key:module_id_13*x:129*y:134
+telepointerGO.js:406 john@gmail.com =>MODULE_MOVED=>key:module_id_10*x:-366*y:184
+telepointerGO.js:406 john@gmail.com =>MODULE_MOVED=>key:module_id_13*x:-5*y:184
+telepointerGO.js:3089 john@gmail.com =>MODULE_ADDED=>module_id:14
+telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_14
+telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_14
+telepointerGO.js:2338 john@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_14
+telepointerGO.js:406 john@gmail.com =>MODULE_MOVED=>key:module_id_14*x:315*y:154
+telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:okay
+telepointerGO.js:1324 john@gmail.com =>FLOOR_RELEASED
+telepointerGO.js:318 john@gmail.com =>MODULE_CONFIG_CLOSED
+telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:done
+telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:just click
+telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:single click
+telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:okay

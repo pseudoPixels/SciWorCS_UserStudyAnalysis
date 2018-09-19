@@ -1,0 +1,46 @@
+telepointer_module_lockingGO.js:3214 darin@gmail.com =>CHATBOX_OPENED=>chatWith:john_gmail_com
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:ok u make the workflow
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:ok
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:so the eqn is x*y*2
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:ya split 2 into A B then :P
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:=18
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:where did u find it
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:see 2.2
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:see table 2.2
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:A = 2
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:B = 1
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:will it work ?
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:Ax^C*By^D
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:A = 2
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:C =D = 0
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:they r powers
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:o
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:ya
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:ok
+telepointer_module_lockingGO.js:1131 darin@gmail.com =>SUB_WORKFLOW_LOCK_REQUESTED=>rootNode:module_id_1
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:ok put Z tools
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:i will run it with certain values
+telepointer_module_lockingGO.js:2688 darin@gmail.com =>SUB_WORKFLOW_LOG_GRANTED=>rootNode:module_id_1
+telepointer_module_lockingGO.js:3126 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:multiplication
+telepointer_module_lockingGO.js:2801 darin@gmail.com =>MODULE_ADDED=>module_id:8
+telepointer_module_lockingGO.js:1108 darin@gmail.com =>MODULE_MOVED=>key:module_id_8*x:251*y:-317
+telepointer_module_lockingGO.js:1108 darin@gmail.com =>MODULE_MOVED=>key:module_id_8*x:-14*y:-365
+telepointer_module_lockingGO.js:1028 darin@gmail.com =>MODULE_DELETED=>module_id:module_id_8
+telepointer_module_lockingGO.js:2688 darin@gmail.com =>SUB_WORKFLOW_LOG_GRANTED=>rootNode:module_id_2
+telepointer_module_lockingGO.js:1131 darin@gmail.com =>SUB_WORKFLOW_LOCK_REQUESTED=>rootNode:module_id_2
+telepointer_module_lockingGO.js:2688 darin@gmail.com =>SUB_WORKFLOW_LOG_GRANTED=>rootNode:module_id_3
+telepointer_module_lockingGO.js:1131 darin@gmail.com =>SUB_WORKFLOW_LOCK_REQUESTED=>rootNode:module_id_3
+telepointer_module_lockingGO.js:2688 darin@gmail.com =>SUB_WORKFLOW_LOG_GRANTED=>rootNode:module_id_7
+telepointer_module_lockingGO.js:1131 darin@gmail.com =>SUB_WORKFLOW_LOCK_REQUESTED=>rootNode:module_id_7
+telepointer_module_lockingGO.js:1767 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_7
+telepointer_module_lockingGO.js:1089 darin@gmail.com =>DATALINK_ADDED=>from:module_id_5*frompid:multiplication_result.txt*to:module_id_7*topid:first_number.txt
+telepointer_module_lockingGO.js:1767 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_7
+telepointer_module_lockingGO.js:1089 darin@gmail.com =>DATALINK_ADDED=>from:module_id_6*frompid:multiplication_result.txt*to:module_id_7*topid:second_number.txt
+telepointer_module_lockingGO.js:978 darin@gmail.com =>MODULE_CONFIG_OPENED=>moduleID:module_id_1
+telepointer_module_lockingGO.js:1007 darin@gmail.com =>MODULE_CONFIG_CLOSED
+telepointer_module_lockingGO.js:978 darin@gmail.com =>MODULE_CONFIG_OPENED=>moduleID:module_id_1
+telepointer_module_lockingGO.js:1007 darin@gmail.com =>MODULE_CONFIG_CLOSED
+telepointer_module_lockingGO.js:978 darin@gmail.com =>MODULE_CONFIG_OPENED=>moduleID:module_id_1
+telepointer_module_lockingGO.js:1007 darin@gmail.com =>MODULE_CONFIG_CLOSED
+telepointer_module_lockingGO.js:978 darin@gmail.com =>MODULE_CONFIG_OPENED=>moduleID:module_id_4
+telepointer_module_lockingGO.js:1007 darin@gmail.com =>MODULE_CONFIG_CLOSED

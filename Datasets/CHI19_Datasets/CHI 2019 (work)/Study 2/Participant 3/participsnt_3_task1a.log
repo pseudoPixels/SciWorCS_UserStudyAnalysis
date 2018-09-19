@@ -1,0 +1,76 @@
+14:49:25.827 telepointerGO.js:3570 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:X
+14:50:04.393 telepointerGO.js:3570 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:draw next workflow
+14:50:12.097 telepointerGO.js:3570 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:I released the floor
+14:50:32.505 telepointerGO.js:3570 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:ok
+14:51:20.021 telepointerGO.js:3570 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:FastQ groomer
+14:51:36.913 telepointerGO.js:309 darin@gmail.com =>BACKGROUND_SINGLE_CLICKED
+14:51:42.407 telepointerGO.js:309 darin@gmail.com =>BACKGROUND_SINGLE_CLICKED
+14:52:04.895 telepointerGO.js:3570 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:first one
+14:52:40.375 telepointerGO.js:3570 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:do you get it?
+14:53:01.630 telepointerGO.js:3570 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:Yap hope so
+14:53:13.538 telepointerGO.js:1313 darin@gmail.com =>FLOOR_REQUESTED
+14:53:27.307 telepointerGO.js:3570 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:release the floor
+14:53:33.168 telepointerGO.js:3570 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:I will draw rest
+14:54:01.164 telepointerGO.js:3089 darin@gmail.com =>MODULE_ADDED=>module_id:15
+14:54:01.364 telepointerGO.js:3089 darin@gmail.com =>MODULE_ADDED=>module_id:16
+14:54:01.382 telepointerGO.js:2338 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_15
+14:54:01.388 telepointerGO.js:2338 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_15
+14:54:01.394 telepointerGO.js:2338 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_15
+14:54:01.591 telepointerGO.js:2338 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_16
+14:54:01.594 telepointerGO.js:2338 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_16
+14:54:01.596 telepointerGO.js:2338 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_16
+14:54:06.053 telepointerGO.js:406 darin@gmail.com =>MODULE_MOVED=>key:module_id_16*x:767.7115355474568*y:175.68320405944928
+14:54:08.272 telepointerGO.js:336 darin@gmail.com =>MODULE_DELETED=>module_id:module_id_16
+14:54:10.790 telepointerGO.js:406 darin@gmail.com =>MODULE_MOVED=>key:module_id_15*x:753.2718201453101*y:180.4964425268314
+14:54:17.187 telepointerGO.js:3089 darin@gmail.com =>MODULE_ADDED=>module_id:17
+14:54:17.403 telepointerGO.js:2338 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_17
+14:54:17.406 telepointerGO.js:2338 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_17
+14:54:17.407 telepointerGO.js:2338 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_17
+14:54:20.300 telepointerGO.js:3089 darin@gmail.com =>MODULE_ADDED=>module_id:18
+14:54:20.506 telepointerGO.js:3089 darin@gmail.com =>MODULE_ADDED=>module_id:19
+14:54:20.517 telepointerGO.js:2338 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_18
+14:54:20.519 telepointerGO.js:2338 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_18
+14:54:20.521 telepointerGO.js:2338 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_18
+14:54:20.753 telepointerGO.js:2338 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_19
+14:54:20.756 telepointerGO.js:2338 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_19
+14:54:20.758 telepointerGO.js:2338 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_19
+14:54:25.173 telepointerGO.js:406 darin@gmail.com =>MODULE_MOVED=>key:module_id_15*x:743.6453432105457*y:173.27658482575805
+14:54:32.156 telepointerGO.js:309 darin@gmail.com =>BACKGROUND_SINGLE_CLICKED
+14:54:37.226 telepointerGO.js:406 darin@gmail.com =>MODULE_MOVED=>key:module_id_9*x:-728.1867615326178*y:336.8037732551561
+14:54:38.661 telepointerGO.js:406 darin@gmail.com =>MODULE_MOVED=>key:module_id_10*x:-358.78014229892665*y:362.0898232931404
+14:54:39.973 telepointerGO.js:406 darin@gmail.com =>MODULE_MOVED=>key:module_id_13*x:45.539003907513006*y:354.86996559206716
+14:54:41.789 telepointerGO.js:406 darin@gmail.com =>MODULE_MOVED=>key:module_id_14*x:432.92434245086315*y:336.90306176052263
+14:54:43.255 telepointerGO.js:406 darin@gmail.com =>MODULE_MOVED=>key:module_id_15*x:784.557870183294*y:351.36640811889833
+14:54:43.757 telepointerGO.js:309 darin@gmail.com =>BACKGROUND_SINGLE_CLICKED
+14:54:46.624 telepointerGO.js:3089 darin@gmail.com =>MODULE_ADDED=>module_id:20
+14:54:46.829 telepointerGO.js:3089 darin@gmail.com =>MODULE_ADDED=>module_id:21
+14:54:46.845 telepointerGO.js:2338 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_20
+14:54:46.847 telepointerGO.js:2338 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_20
+14:54:46.849 telepointerGO.js:2338 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_20
+14:54:47.059 telepointerGO.js:2338 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_21
+14:54:47.062 telepointerGO.js:2338 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_21
+14:54:47.065 telepointerGO.js:2338 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_21
+14:55:12.351 telepointerGO.js:3570 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:FASTQ to FASTA is not drawing
+14:55:27.158 telepointerGO.js:2338 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_10
+14:55:27.158 telepointerGO.js:383 darin@gmail.com =>DATALINK_ADDED=>from:module_id_9*frompid:output.txt*to:module_id_10*topid:file_to_groom.txt
+14:55:29.157 telepointerGO.js:2338 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_13
+14:55:29.158 telepointerGO.js:383 darin@gmail.com =>DATALINK_ADDED=>from:module_id_10*frompid:output_file.txt*to:module_id_13*topid:fastq_file.txt
+14:55:33.197 telepointerGO.js:2338 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_14
+14:55:33.198 telepointerGO.js:383 darin@gmail.com =>DATALINK_ADDED=>from:module_id_13*frompid:output_file.txt*to:module_id_14*topid:fastq_file.txt
+14:55:35.451 telepointerGO.js:2338 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_15
+14:55:35.451 telepointerGO.js:383 darin@gmail.com =>DATALINK_ADDED=>from:module_id_14*frompid:output_file.txt*to:module_id_15*topid:fastq_file.txt
+14:55:36.724 telepointerGO.js:309 darin@gmail.com =>BACKGROUND_SINGLE_CLICKED
+14:55:41.534 telepointerGO.js:309 darin@gmail.com =>BACKGROUND_SINGLE_CLICKED
+14:55:46.940 telepointerGO.js:406 darin@gmail.com =>MODULE_MOVED=>key:module_id_21*x:1287.5412900247313*y:353.77302735258957
+14:55:50.405 telepointerGO.js:3570 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:I got it
+14:56:00.967 telepointerGO.js:2338 darin@gmail.com =>MODULE_CONFIG_CHANGE=>moduleID:module_id_21
+14:56:00.967 telepointerGO.js:383 darin@gmail.com =>DATALINK_ADDED=>from:module_id_15*frompid:output_file.txt*to:module_id_21*topid:fastq_file_to_convert.txt
+14:56:02.678 telepointerGO.js:336 darin@gmail.com =>MODULE_DELETED=>module_id:module_id_20
+14:56:04.761 telepointerGO.js:406 darin@gmail.com =>MODULE_MOVED=>key:module_id_19*x:1167.210328340177*y:-156.43025018992057
+14:56:06.486 telepointerGO.js:336 darin@gmail.com =>MODULE_DELETED=>module_id:module_id_19
+14:56:08.596 telepointerGO.js:406 darin@gmail.com =>MODULE_MOVED=>key:module_id_18*x:1208.1228553129251*y:-117.92434245086326
+14:56:09.406 telepointerGO.js:336 darin@gmail.com =>MODULE_DELETED=>module_id:module_id_18
+14:56:11.324 telepointerGO.js:406 darin@gmail.com =>MODULE_MOVED=>key:module_id_17*x:1347.7067708670081*y:-146.80377325515633
+14:56:12.025 telepointerGO.js:336 darin@gmail.com =>MODULE_DELETED=>module_id:module_id_17
+14:56:16.555 telepointerGO.js:3570 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:done
+14:56:20.027 telepointerGO.js:1324 darin@gmail.com =>FLOOR_RELEASED
