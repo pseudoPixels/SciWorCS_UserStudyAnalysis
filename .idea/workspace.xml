@@ -34,13 +34,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GraphPlot_ill_vs_well_workflow_composition_pattern.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GraphPlot_ill_vs_well_workflow_composition_pattern.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Scripts/GraphPlot_ill_vs_well_workflow_composition_pattern.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="94" column="0" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+            <state relative-caret-position="1080">
+              <caret line="113" column="0" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GraphPlot_ill_vs_well_contribution_plot.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Scripts/GraphPlot_ill_vs_well_contribution_plot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="169" column="9" selection-start-line="169" selection-start-column="9" selection-end-line="169" selection-end-column="9" />
+              <folding>
+                <element signature="e#615#633#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -80,11 +92,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="user1_study1.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Datasets/Pilot_User_Study/user1_study1.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1800">
+              <caret line="120" column="59" selection-start-line="120" selection-start-column="59" selection-end-line="120" selection-end-column="59" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="user2_study1.log" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Datasets/Pilot_User_Study/user2_study1.log">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="39" column="91" selection-start-line="39" selection-start-column="91" selection-end-line="39" selection-end-column="91" />
+            <state relative-caret-position="375">
+              <caret line="25" column="94" selection-start-line="25" selection-start-column="94" selection-end-line="25" selection-end-column="94" />
               <folding />
             </state>
           </provider>
@@ -102,31 +124,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="user1_study1.log" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Datasets/Pilot_User_Study/user1_study1.log">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="56" column="84" selection-start-line="56" selection-start-column="84" selection-end-line="56" selection-end-column="84" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="TimeUtility.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Scripts/TimeUtility.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LogParser.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Scripts/LogParser.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1050">
-              <caret line="70" column="8" selection-start-line="70" selection-start-column="8" selection-end-line="70" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -162,6 +164,7 @@
         <option value="$PROJECT_DIR$/Scripts/GraphPlot_workflow_composition_pattern.py" />
         <option value="$PROJECT_DIR$/Scripts/GraphPlot_NASA_TLX_workflow_composition_pattern.py" />
         <option value="$PROJECT_DIR$/Scripts/GraphPlot_ill_vs_well_workflow_composition_pattern.py" />
+        <option value="$PROJECT_DIR$/Scripts/GraphPlot_ill_vs_well_contribution_plot.py" />
       </list>
     </option>
   </component>
@@ -242,6 +245,28 @@
               <option name="myItemId" value="SciWorCS_User_Study_Result_Analysis" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Datasets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SciWorCS_User_Study_Result_Analysis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SciWorCS_User_Study_Result_Analysis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Datasets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pilot_User_Study" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -259,7 +284,7 @@
       <recent name="$PROJECT_DIR$/Datasets" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.GraphPlot_ill_vs_well_workflow_composition_pattern">
+  <component name="RunManager" selected="Python.GraphPlot_ill_vs_well_contribution_plot">
     <configuration default="false" name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -273,23 +298,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="SciWorCS_User_Study_Result_Analysis" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scripts/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="workflow_composition_pattern" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Scripts/GraphPlots" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="SciWorCS_User_Study_Result_Analysis" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scripts/GraphPlots/workflow_composition_pattern.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -341,6 +349,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="SciWorCS_User_Study_Result_Analysis" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scripts/GraphPlot_ill_vs_well_workflow_composition_pattern.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="GraphPlot_ill_vs_well_contribution_plot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SciWorCS_User_Study_Result_Analysis" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scripts/GraphPlot_ill_vs_well_contribution_plot.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -481,18 +506,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.main" />
-      <item index="1" class="java.lang.String" itemvalue="Python.workflow_composition_pattern" />
-      <item index="2" class="java.lang.String" itemvalue="Python.workflow_composition_pattern (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Python.GraphPlot_NASA_TLX_workflow_composition_pattern" />
-      <item index="4" class="java.lang.String" itemvalue="Python.GraphPlot_ill_vs_well_workflow_composition_pattern" />
+      <item index="1" class="java.lang.String" itemvalue="Python.workflow_composition_pattern (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.GraphPlot_NASA_TLX_workflow_composition_pattern" />
+      <item index="3" class="java.lang.String" itemvalue="Python.GraphPlot_ill_vs_well_workflow_composition_pattern" />
+      <item index="4" class="java.lang.String" itemvalue="Python.GraphPlot_ill_vs_well_contribution_plot" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.GraphPlot_ill_vs_well_workflow_composition_pattern" />
-        <item index="1" class="java.lang.String" itemvalue="Python.GraphPlot_NASA_TLX_workflow_composition_pattern" />
-        <item index="2" class="java.lang.String" itemvalue="Python.workflow_composition_pattern (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Python.main" />
-        <item index="4" class="java.lang.String" itemvalue="Python.workflow_composition_pattern" />
+        <item index="0" class="java.lang.String" itemvalue="Python.GraphPlot_ill_vs_well_contribution_plot" />
+        <item index="1" class="java.lang.String" itemvalue="Python.GraphPlot_ill_vs_well_workflow_composition_pattern" />
+        <item index="2" class="java.lang.String" itemvalue="Python.GraphPlot_NASA_TLX_workflow_composition_pattern" />
+        <item index="3" class="java.lang.String" itemvalue="Python.workflow_composition_pattern (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -682,14 +707,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/Pilot_User_Study/user1_study1.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="56" column="84" selection-start-line="56" selection-start-column="84" selection-end-line="56" selection-end-column="84" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Scripts/LogParser.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1050">
@@ -724,14 +741,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Datasets/Pilot_User_Study/user2_study1.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="91" selection-start-line="39" selection-start-column="91" selection-end-line="39" selection-end-column="91" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Scripts/GraphPlots/__init__.py" />
     <entry file="file://$PROJECT_DIR$/Scripts/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -762,6 +771,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/GraphPlot_ill_vs_well_workflow_composition_pattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="113" column="0" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Scripts/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -772,12 +791,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Scripts/GraphPlot_ill_vs_well_workflow_composition_pattern.py">
+    <entry file="file://$PROJECT_DIR$/Datasets/Pilot_User_Study/user2_study1.log">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="94" column="0" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+        <state relative-caret-position="375">
+          <caret line="25" column="94" selection-start-line="25" selection-start-column="94" selection-end-line="25" selection-end-column="94" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datasets/Pilot_User_Study/user1_study1.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="120" column="59" selection-start-line="120" selection-start-column="59" selection-end-line="120" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/GraphPlot_ill_vs_well_contribution_plot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="169" column="9" selection-start-line="169" selection-start-column="9" selection-end-line="169" selection-end-column="9" />
           <folding>
-            <element signature="e#0#31#0" expanded="true" />
+            <element signature="e#615#633#0" expanded="true" />
           </folding>
         </state>
       </provider>
