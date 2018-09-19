@@ -8,9 +8,13 @@ logParser = LogParser()
 
 
 class LogAnalyser:
-    def __init__(self, rawLog):
+    def __init__(self, rawLog, timeStatmpNotAvailable=False):
         self._rawLog = rawLog
         self._totalEventCount = len(self._rawLog)
+
+        if timeStatmpNotAvailable == True:
+            for i in range(self._totalEventCount):
+                self._rawLog[i] = 'Time ' + self._rawLog[i]
 
 
 

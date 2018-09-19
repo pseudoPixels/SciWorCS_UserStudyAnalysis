@@ -10,3 +10,46 @@
 15:40:53.597 telepointerGO.js:3570 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:ok run it
 15:42:09.587 telepointerGO.js:3570 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:are you done?
 15:42:52.811 telepointerGO.js:3570 darin@gmail.com =>P2P_CHAT_SENT=>to:john_gmail_com*text:ok
+
+
+
+
+STATS
+=================================
+P2P_CHAT_SENT: 9
+FLOOR_REQUESTED: 0
+MODULE_ADDED: 0
+DATALINK_ADDED: 0
+MODULE_DELETED: 0
+DATALINK_DELETED: 0
+MODULE_CONFIG_CHANGE: 0
+totalEdits: 0
+MODULE_MOVED: 0
+
+
+
+STATS 2
+=================================
+P2P_CHAT_SENT: 4
+FLOOR_REQUESTED: 1
+MODULE_ADDED: 5
+DATALINK_ADDED: 3
+MODULE_DELETED: 2
+DATALINK_DELETED: 0
+MODULE_CONFIG_CHANGE: 21
+totalEdits: 31
+MODULE_MOVED: 5
+
+
+
+RATIO
+==============================
+P2P_CHAT_SENT: 4/(4+9)
+FLOOR_REQUESTED: 1/(1+0)
+MODULE_ADDED: 5/(5+0)
+DATALINK_ADDED: 3/(3+0)
+MODULE_DELETED: 2/(2+0)
+DATALINK_DELETED: 0/0
+MODULE_CONFIG_CHANGE: 21/(21+0)
+totalEdits: 31/31
+MODULE_MOVED: 5/(5+0)

@@ -62,3 +62,19 @@ telepointerGO.js:318 john@gmail.com =>MODULE_CONFIG_CLOSED
 telepointerGO.js:3658 john@gmail.com =>CHATBOX_OPENED=>chatWith:darin_gmail_com
 telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:67.77
 telepointerGO.js:3570 john@gmail.com =>P2P_CHAT_SENT=>to:darin_gmail_com*text:done
+
+
+
+
+
+STATS
+=================================
+P2P_CHAT_SENT: 4
+FLOOR_REQUESTED: 1
+MODULE_ADDED: 5
+DATALINK_ADDED: 3
+MODULE_DELETED: 2
+DATALINK_DELETED: 0
+MODULE_CONFIG_CHANGE: 21
+totalEdits: 31
+MODULE_MOVED: 5

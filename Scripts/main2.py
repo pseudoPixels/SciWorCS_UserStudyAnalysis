@@ -10,7 +10,7 @@ logParser = LogParser()
 
 
 #load log file
-rawLog = logIO.loadLog('/home/gom766/Documents/My_Research_Projects/MyGitRepo/SciWorCS_User_Study_Result_Analysis/Datasets/CHI19_Datasets/CHI 2019/Study 2/Participant 3/participant_3_task2.log')
+rawLog = logIO.loadLog('/home/gom766/Documents/My_Research_Projects/MyGitRepo/SciWorCS_User_Study_Result_Analysis/Datasets/CHI19_Datasets/CHI 2019 (work)/Study 2/Participant 3/participant_3_task3.log')
 
 
 #log analyser class object
@@ -73,7 +73,7 @@ logParser = LogParser()
 
 
 #load log file
-rawLog = logIO.loadLog('../Datasets/CHI19_Datasets/CHI 2019/Study 1/Participant 7/participant_7_task_2.log')
+rawLog = logIO.loadLog('/home/gom766/Documents/My_Research_Projects/MyGitRepo/SciWorCS_User_Study_Result_Analysis/Datasets/CHI19_Datasets/CHI 2019 (work)/Study 2/Participant 8/Participant_task3.log')
 
 
 #log analyser class object
